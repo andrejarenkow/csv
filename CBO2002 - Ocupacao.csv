@@ -70,7 +70,7 @@ CODIGO,TITULO
 122110,Diretor de produção e operações em empresa aqüícola
 122115,Diretor de produção e operações em empresa florestal
 122120,Diretor de produção e operações em empresa pesqueira
-122205,Diretor de produção e operações da indústria de transformação - extração mineral e utilidades
+122205,Diretor de produção e operações da indústria de transformação- extração mineral e utilidades
 122305,Diretor de operações de obras pública e civil
 122405,Diretor de operações comerciais (comércio atacadista e varejista)
 122505,Diretor de  produção e operações de alimentação
@@ -206,7 +206,7 @@ CODIGO,TITULO
 203210,Pesquisador de engenharia e tecnologia (outras áreas da engenharia)
 203215,Pesquisador de engenharia elétrica e eletrônica
 203220,Pesquisador de engenharia mecânica
-203225,Pesquisador de engenharia metalúrgica e de minas e de materiais
+203225,Pesquisador de engenharia metalúrgica- de minas e de materiais
 203230,Pesquisador de engenharia química
 203305,Pesquisador de clínica médica
 203310,Pesquisador de medicina básica
@@ -316,7 +316,7 @@ CODIGO,TITULO
 214435,Tecnólogo em fabricação mecânica
 214505,Engenheiro químico
 214510,Engenheiro químico (indústria química)
-214515,Engenheiro químico (mineração; metalurgia; siderurgia; cimenteira e cerâmica)
+214515,Engenheiro químico (mineração- metalurgia- siderurgia- cimenteira e cerâmica)
 214520,Engenheiro químico (papel e celulose)
 214525,Engenheiro químico (petróleo e borracha)
 214530,Engenheiro químico (utilidades e meio ambiente)
@@ -738,7 +738,7 @@ CODIGO,TITULO
 253215,Gerente de contas - pessoa física e jurídica
 253220,Gerente de grandes contas (corporate)
 253225,Operador de negócios
-253305,Corretor de valores, ativos financeiros, mercadorias e derivativos
+253305,Corretor de valores- ativos financeiros- mercadorias e derivativos
 253405,Analista de mídias sociais
 253410,Influenciador digital
 254105,Auditor-fiscal da receita federal
@@ -846,12 +846,12 @@ CODIGO,TITULO
 311110,Técnico de celulose e papel
 311115,Técnico em curtimento
 311205,Técnico em petroquímica
-311305,Técnico em materiais, produtos cerâmicos e vidros
+311305,Técnico em materiais- produtos cerâmicos e vidros
 311405,Técnico em borracha
 311410,Técnico em plástico
 311505,Técnico de controle de meio ambiente
 311510,Técnico de meteorologia
-311515,Técnico de utilidade (produção e distribuição de vapor, gases, óleos, combustíveis, energia)
+311515,Técnico de utilidade (produção e distribuição de vapor- gases- óleos- combustíveis- energia)
 311520,Técnico em tratamento de efluentes
 311605,Técnico têxtil
 311610,Técnico têxtil (tratamentos químicos)
@@ -872,7 +872,7 @@ CODIGO,TITULO
 312320,Topógrafo
 313105,Eletrotécnico
 313110,Eletrotécnico (produção de energia)
-313115,Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos
+313115,Eletrotécnico na fabricação- montagem e instalação de máquinas e equipamentos
 313120,Técnico de manutenção elétrica
 313125,Técnico de manutenção elétrica de máquina
 313130,Técnico eletricista
@@ -886,11 +886,11 @@ CODIGO,TITULO
 313320,Técnico de transmissão (telecomunicações)
 313405,Técnico em calibração
 313410,Técnico em instrumentação
-313415,Encarregado de manutenção de instrumentos de controle, medição e similares
+313415,Encarregado de manutenção de instrumentos de controle- medição e similares
 313505,Técnico em fotônica
 314105,Técnico em mecânica de precisão
 314110,Técnico mecânico
-314115,Técnico mecânico (calefação, ventilação e refrigeração)
+314115,Técnico mecânico (calefação- ventilação e refrigeração)
 314120,Técnico mecânico (máquinas)
 314125,Técnico mecânico (motores)
 314205,Técnico mecânico na fabricação de ferramentas
@@ -947,13 +947,13 @@ CODIGO,TITULO
 318210,Desenhista técnico aeronáutico
 318215,Desenhista técnico naval
 318305,Desenhista técnico (eletricidade e eletrônica)
-318310,Desenhista técnico (calefação, ventilação e refrigeração)
+318310,Desenhista técnico (calefação- ventilação e refrigeração)
 318405,Desenhista técnico (artes gráficas)
 318410,Desenhista técnico (ilustrações artísticas)
 318415,Desenhista técnico (ilustrações técnicas)
 318420,Desenhista técnico (indústria têxtil)
 318425,Desenhista técnico (mobiliário)
-318430,Desenhista técnico de embalagens, maquetes e leiautes
+318430,Desenhista técnico de embalagens- maquetes e leiautes
 318505,Desenhista projetista de arquitetura
 318510,Desenhista projetista de construção civil
 318605,Desenhista projetista de máquinas
@@ -1183,7 +1183,7 @@ CODIGO,TITULO
 374145,Dj (disc jockey)
 374150,Sonoplasta
 374155,Analista musical
-374205,Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)
+374205,Cenotécnico (cinema- vídeo- televisão- teatro e espetáculos)
 374210,Maquinista de cinema e vídeo
 374215,Maquinista de teatro e espetáculos
 374305,Operador de projetor cinematográfico
@@ -1326,7 +1326,7 @@ CODIGO,TITULO
 421305,Cobrador externo
 421310,Cobrador interno
 421315,Localizador (cobrador)
-422105,Recepcionista, em geral
+422105,Recepcionista- em geral
 422110,Recepcionista de consultório médico ou dentário
 422115,Recepcionista de seguro saúde
 422120,Recepcionista de hotel
@@ -1349,8 +1349,8 @@ CODIGO,TITULO
 424120,Entrevistador de preços
 424125,Escriturário  em  estatística
 424130,Entrevistador social
-424205,Coordenador de provas (concurso, avaliação, exame)
-424210,Aplicador de provas (concurso, avaliação,exame)
+424205,Coordenador de provas (concurso- avaliação- exame)
+424210,Aplicador de provas (concurso- avaliação-exame)
 510105,Supervisor de transportes
 510110,Administrador de edifícios
 510115,Supervisor de andar
@@ -1366,7 +1366,7 @@ CODIGO,TITULO
 511205,Fiscal de transportes coletivos (exceto trem)
 511210,Despachante de transportes coletivos (exceto trem)
 511215,Cobrador de transportes coletivos (exceto trem)
-511220,Bilheteiro (estações de metrô, ferroviárias e assemelhadas)
+511220,Bilheteiro (estações de metrô- ferroviárias e assemelhadas)
 511405,Guia de turismo
 511505,Condutor de turismo de aventura
 511510,Condutor de turismo de pesca
@@ -1442,18 +1442,18 @@ CODIGO,TITULO
 516210,Cuidador de idosos
 516215,Mãe social
 516220,Cuidador em saúde
-516305,Lavadeiro, em geral
+516305,Lavadeiro- em geral
 516310,Lavador de roupas  a maquina
 516315,Lavador de artefatos de tapeçaria
-516320,Limpador a seco, à máquina
+516320,Limpador a seco- à máquina
 516325,Passador de roupas em geral
 516330,Tingidor de roupas
 516335,Conferente-expedidor de roupas (lavanderias)
 516340,Atendente de lavanderia
 516345,Auxiliar de lavanderia
 516405,Lavador de roupas
-516410,Limpador de roupas a seco, à mão
-516415,Passador de roupas, à mão
+516410,Limpador de roupas a seco- à mão
+516415,Passador de roupas- à mão
 516505,Agente funerário
 516605,Operador de forno (serviços funerários)
 516610,Sepultador
@@ -1499,7 +1499,7 @@ CODIGO,TITULO
 519915,Engraxate
 519920,Gandula
 519925,Guardador de veículos
-519930,Lavador de garrafas, vidros e outros utensílios
+519930,Lavador de garrafas- vidros e outros utensílios
 519935,Lavador de veículos
 519940,Leiturista
 519945,Recepcionista de casas de espetáculos
@@ -1513,7 +1513,7 @@ CODIGO,TITULO
 521130,Atendente de farmácia - balconista
 521135,Frentista
 521140,Atendente de lojas e mercados
-523105,Instalador de cortinas e persianas, portas sanfonadas e boxe
+523105,Instalador de cortinas e persianas- portas sanfonadas e boxe
 523110,Instalador de som e acessórios de veículos
 523115,Chaveiro
 523120,Aplicador de vinil autoadesivo
@@ -1524,7 +1524,7 @@ CODIGO,TITULO
 524305,Vendedor ambulante
 524310,Pipoqueiro ambulante
 524315,Baiana de acarajé
-611005,Produtor agropecuário, em geral
+611005,Produtor agropecuário- em geral
 612005,Produtor agrícola polivalente
 612105,Produtor de arroz
 612110,Produtor de cana-de-açúcar
@@ -1537,8 +1537,8 @@ CODIGO,TITULO
 612220,Produtor de rami
 612225,Produtor de sisal
 612305,Produtor na olericultura de legumes
-612310,Produtor na olericultura de raízes, bulbos e tubérculos
-612315,Produtor na olericultura de talos, folhas e flores
+612310,Produtor na olericultura de raízes- bulbos e tubérculos
+612315,Produtor na olericultura de talos- folhas e flores
 612320,Produtor na olericultura de frutos e sementes
 612405,Produtor de flores de corte
 612410,Produtor de flores em vaso
@@ -1590,14 +1590,14 @@ CODIGO,TITULO
 622105,Trabalhador da cultura de arroz
 622110,Trabalhador da cultura de cana-de-açúcar
 622115,Trabalhador da cultura de milho e sorgo
-622120,Trabalhador da cultura de trigo, aveia, cevada e triticale
+622120,Trabalhador da cultura de trigo- aveia- cevada e triticale
 622205,Trabalhador da cultura de algodão
 622210,Trabalhador da cultura de sisal
 622215,Trabalhador da cultura do rami
 622305,Trabalhador na olericultura (frutos e sementes)
 622310,Trabalhador na olericultura (legumes)
-622315,Trabalhador na olericultura (raízes, bulbos e tubérculos)
-622320,Trabalhador na olericultura (talos, folhas e flores)
+622315,Trabalhador na olericultura (raízes- bulbos e tubérculos)
+622320,Trabalhador na olericultura (talos- folhas e flores)
 622405,Trabalhador no cultivo de flores e folhagens de corte
 622410,Trabalhador no cultivo de flores em vaso
 622415,Trabalhador no cultivo de forrações
@@ -1671,7 +1671,7 @@ CODIGO,TITULO
 632110,Cubador de madeira
 632115,Identificador florestal
 632120,Operador de motosserra
-632125,Trabalhador de extração florestal, em geral
+632125,Trabalhador de extração florestal- em geral
 632205,Seringueiro
 632210,Trabalhador da exploração de espécies produtoras de gomas não elásticas
 632215,Trabalhador da exploração de resinas
@@ -1693,11 +1693,11 @@ CODIGO,TITULO
 632410,Trabalhador da exploração de castanha
 632415,Trabalhador da exploração de pinhão
 632420,Trabalhador da exploração de pupunha
-632505,Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát., Medic. E tóxicas
-632510,Trabalhador da exploração de cipós produtores de substâncias aromáticas, medicinais e tóxicas
+632505,Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát.- Medic. E tóxicas
+632510,Trabalhador da exploração de cipós produtores de substâncias aromáticas- medicinais e tóxicas
 632515,Trabalhador da exploração de madeiras tanantes
-632520,Trabalhador da exploração de raízes produtoras de substâncias aromáticas, medicinais e tóxicas
-632525,Trabalhador da extração de substâncias aromáticas, medicinais e tóxicas, em geral
+632520,Trabalhador da exploração de raízes produtoras de substâncias aromáticas- medicinais e tóxicas
+632525,Trabalhador da extração de substâncias aromáticas- medicinais e tóxicas- em geral
 632605,Carvoeiro
 632610,Carbonizador
 632615,Ajudante de carvoaria
@@ -1765,7 +1765,7 @@ CODIGO,TITULO
 715125,Operador de máquinas de construção civil e mineração
 715130,Operador de motoniveladora
 715135,Operador de pá carregadeira
-715140,Operador de pavimentadora (asfalto, concreto e materiais similares)
+715140,Operador de pavimentadora (asfalto- concreto e materiais similares)
 715145,Operador de trator de lâmina
 715205,Calceteiro
 715210,Pedreiro
@@ -1786,7 +1786,7 @@ CODIGO,TITULO
 715525,Carpinteiro de obras
 715530,Carpinteiro (telhados)
 715535,Carpinteiro de fôrmas para concreto
-715540,Carpinteiro de obras civis de arte (pontes, túneis, barragens)
+715540,Carpinteiro de obras civis de arte (pontes- túneis- barragens)
 715545,Montador de andaimes (edificações)
 715605,Eletricista de instalações (cenários)
 715610,Eletricista de instalações (edifícios)
@@ -1795,8 +1795,8 @@ CODIGO,TITULO
 715710,Instalador de isolantes acústicos
 715715,Instalador de isolantes térmicos (refrigeração e climatização)
 715720,Instalador de isolantes térmicos de caldeira e tubulações
-715725,Instalador de material isolante, a mão (edificações)
-715730,Instalador de material isolante, à máquina (edificações)
+715725,Instalador de material isolante- a mão (edificações)
+715730,Instalador de material isolante- à máquina (edificações)
 716105,Acabador de superfícies de concreto
 716110,Revestidor de superfícies de concreto
 716205,Telhador (telhas de argila e materiais similares)
@@ -1817,7 +1817,7 @@ CODIGO,TITULO
 716540,Rejuntador de revestimentos
 716605,Calafetador
 716610,Pintor de obras
-716615,Revestidor de interiores (papel, material plástico e emborrachados)
+716615,Revestidor de interiores (papel- material plástico e emborrachados)
 717005,Demolidor de edificações
 717010,Operador de martelete
 717015,Poceiro (edificações)
@@ -1840,7 +1840,7 @@ CODIGO,TITULO
 720215,Mestre (indústria de máquinas e outros equipamentos mecânicos)
 720220,Mestre de construção de fornos
 721105,Ferramenteiro
-721110,Ferramenteiro de mandris, calibradores e outros dispositivos
+721110,Ferramenteiro de mandris- calibradores e outros dispositivos
 721115,Modelador de metais (fundição)
 721205,Operador de máquina de eletroerosão
 721210,Operador de máquinas operatrizes
@@ -1855,7 +1855,7 @@ CODIGO,TITULO
 721405,Operador de centro de usinagem com comando numérico
 721410,Operador de fresadora com comando numérico
 721415,Operador de mandriladora com comando numérico
-721420,Operador de máquina eletroerosão, à fio, com comando numérico
+721420,Operador de máquina eletroerosão- à fio- com comando numérico
 721425,Operador de retificadora com comando numérico
 721430,Operador de torno com comando numérico
 722105,Forjador
@@ -1868,15 +1868,15 @@ CODIGO,TITULO
 722225,Operador de máquina de fundir sob pressão
 722230,Operador de vazamento (lingotamento)
 722235,Preparador de panelas (lingotamento)
-722305,Macheiro, a mão
-722310,Macheiro, a  máquina
-722315,Moldador, a  mão
-722320,Moldador, a  máquina
+722305,Macheiro- a mão
+722310,Macheiro- a  máquina
+722315,Moldador- a  mão
+722320,Moldador- a  máquina
 722325,Operador de equipamentos de preparação de areia
 722330,Operador de máquina de moldar automatizada
 722405,Cableador
 722410,Estirador de tubos de metal sem costura
-722415,Trefilador de metais, à máquina
+722415,Trefilador de metais- à máquina
 723105,Cementador de metais
 723110,Normalizador de metais e de compósitos
 723115,Operador de equipamento para resfriamento
@@ -1895,7 +1895,7 @@ CODIGO,TITULO
 723315,Pintor de estruturas metálicas
 723320,Pintor de veículos (fabricação)
 723325,Pintor por imersão
-723330,Pintor, a  pistola (exceto obras e estruturas metálicas)
+723330,Pintor- a  pistola (exceto obras e estruturas metálicas)
 724105,Assentador de canalização (edificações)
 724110,Encanador
 724115,Instalador de tubulações
@@ -1908,7 +1908,7 @@ CODIGO,TITULO
 724215,Rebitador a  martelo pneumático
 724220,Preparador de estruturas metálicas
 724225,Riscador de estruturas metálicas
-724230,Rebitador, a  mão
+724230,Rebitador- a  mão
 724305,Brasador
 724310,Oxicortador a mão e a  máquina
 724315,Soldador
@@ -1932,7 +1932,7 @@ CODIGO,TITULO
 725015,Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas)
 725020,Ajustador mecânico em bancada
 725025,Ajustador naval (reparo e construção)
-725105,Montador de máquinas, motores e acessórios (montagem em série)
+725105,Montador de máquinas- motores e acessórios (montagem em série)
 725205,Montador de máquinas
 725210,Montador de máquinas gráficas
 725215,Montador de máquinas operatrizes para madeira
@@ -1964,20 +1964,20 @@ CODIGO,TITULO
 731150,Montador de equipamentos eletrônicos
 731155,Montador de equipamentos elétricos (elevadores e equipamentos similares)
 731160,Montador de equipamentos elétricos (transformadores)
-731165,Bobinador eletricista, à mão
-731170,Bobinador eletricista, à máquina
+731165,Bobinador eletricista- à mão
+731170,Bobinador eletricista- à máquina
 731175,Operador de linha de montagem (aparelhos elétricos)
 731180,Operador de linha de montagem (aparelhos eletrônicos)
-731205,Montador de equipamentos eletrônicos (estação de rádio, tv e equipamentos de radar)
+731205,Montador de equipamentos eletrônicos (estação de rádio- tv e equipamentos de radar)
 731305,Instalador-reparador de equipamentos de comutação em telefonia
 731310,Instalador-reparador de equipamentos de energia em telefonia
 731315,Instalador-reparador de equipamentos de transmissão em telefonia
 731320,Instalador-reparador de linhas e aparelhos de telecomunicações
 731325,Instalador-reparador de redes e cabos telefônicos
 731330,Reparador de aparelhos de telecomunicações em laboratório
-732105,Eletricista de manutenção de linhas elétricas, telefônicas e de comunicação de dados
+732105,Eletricista de manutenção de linhas elétricas- telefônicas e de comunicação de dados
 732110,Emendador de cabos elétricos e telefônicos (aéreos e subterrâneos)
-732115,Examinador de cabos, linhas elétricas e telefônicas
+732115,Examinador de cabos- linhas elétricas e telefônicas
 732120,Instalador de linhas elétricas de alta e baixa - tensão (rede aérea e subterrânea)
 732125,Instalador eletricista (tração de veículos)
 732130,Instalador-reparador de redes telefônicas e de comunicação de dados
@@ -1993,7 +1993,7 @@ CODIGO,TITULO
 742105,Afinador de instrumentos musicais
 742110,Confeccionador de acordeão
 742115,Confeccionador de instrumentos de corda
-742120,Confeccionador de instrumentos de percussão (pele, couro ou plástico)
+742120,Confeccionador de instrumentos de percussão (pele- couro ou plástico)
 742125,Confeccionador de instrumentos de sopro (madeira)
 742130,Confeccionador de instrumentos de sopro (metal)
 742135,Confeccionador de órgão
@@ -2032,7 +2032,7 @@ CODIGO,TITULO
 752415,Decorador de vidro à pincel
 752420,Operador de esmaltadeira
 752425,Operador de espelhamento
-752430,Pintor de cerâmica, a  pincel
+752430,Pintor de cerâmica- a  pincel
 760105,Contramestre de acabamento (indústria têxtil)
 760110,Contramestre de fiação (indústria têxtil)
 760115,Contramestre de malharia (indústria têxtil)
@@ -2042,7 +2042,7 @@ CODIGO,TITULO
 760305,Encarregado de corte na confecção do vestuário
 760310,Encarregado de costura na confecção do vestuário
 760405,Supervisor  (indústria de calçados e artefatos de couro)
-760505,Supervisor da confecção de artefatos de tecidos, couros e afins
+760505,Supervisor da confecção de artefatos de tecidos- couros e afins
 760605,Supervisor das artes gráficas  (indústria editorial e gráfica)
 761005,Operador polivalente da indústria têxtil
 761105,Classificador de fibras têxteis
@@ -2066,14 +2066,14 @@ CODIGO,TITULO
 761315,Tecelão (tear mecânico de maquineta)
 761318,Tecelão (tear mecânico de xadrez)
 761321,Tecelão (tear mecânico liso)
-761324,Tecelão (tear mecânico, exceto jacquard)
-761327,Tecelão de malhas, a  máquina
+761324,Tecelão (tear mecânico- exceto jacquard)
+761327,Tecelão de malhas- a  máquina
 761330,Tecelão de malhas (máquina circular)
 761333,Tecelão de malhas (máquina retilínea)
-761336,Tecelão de meias, a  máquina
+761336,Tecelão de meias- a  máquina
 761339,Tecelão de meias (máquina circular)
 761342,Tecelão de meias (máquina retilínea)
-761345,Tecelão de tapetes, a  máquina
+761345,Tecelão de tapetes- a  máquina
 761348,Operador de engomadeira de urdume
 761351,Operador de espuladeira
 761354,Operador de máquina de cordoalha
@@ -2094,7 +2094,7 @@ CODIGO,TITULO
 761820,Revisor de tecidos crus
 762005,Trabalhador polivalente do curtimento de couros e peles
 762105,Classificador de peles
-762110,Descarnador de couros e peles, à maquina
+762110,Descarnador de couros e peles- à maquina
 762115,Estirador de couros e peles (preparação)
 762120,Fuloneiro
 762125,Rachador de couros e peles
@@ -2120,20 +2120,20 @@ CODIGO,TITULO
 763115,Enfestador de roupas
 763120,Riscador de roupas
 763125,Ajudante de confecção
-763205,Costureiro de roupas de couro e pele, a  máquina na  confecção em série
+763205,Costureiro de roupas de couro e pele- a  máquina na  confecção em série
 763210,Costureiro na confecção em série
-763215,Costureiro, a  máquina  na confecção em série
+763215,Costureiro- a  máquina  na confecção em série
 763305,Arrematadeira
-763310,Bordador, à máquina
+763310,Bordador- à máquina
 763315,Marcador de peças confeccionadas para bordar
 763320,Operador de máquina de costura de acabamento
 763325,Passadeira de peças confeccionadas
 764005,Trabalhador polivalente da confecção de calçados
-764105,Cortador de calçados, a  máquina (exceto solas e palmilhas)
-764110,Cortador de solas e palmilhas, a  máquina
+764105,Cortador de calçados- a  máquina (exceto solas e palmilhas)
+764110,Cortador de solas e palmilhas- a  máquina
 764115,Preparador de calçados
 764120,Preparador de solas e palmilhas
-764205,Costurador de calçados, a  máquina
+764205,Costurador de calçados- a  máquina
 764210,Montador de calçados
 764305,Acabador de calçados
 765005,Confeccionador de artefatos de couro (exceto sapatos)
@@ -2143,11 +2143,11 @@ CODIGO,TITULO
 765110,Cortador de tapeçaria
 765205,Colchoeiro (confecção de colchões)
 765215,Confeccionador de brinquedos de pano
-765225,Confeccionador de velas náuticas, barracas e toldos
+765225,Confeccionador de velas náuticas- barracas e toldos
 765230,Estofador de aviões
 765235,Estofador de móveis
 765240,Tapeceiro de autos
-765310,Costurador de artefatos de couro, a  máquina (exceto roupas e calçados)
+765310,Costurador de artefatos de couro- a  máquina (exceto roupas e calçados)
 765315,Montador de artefatos de couro (exceto roupas e calçados)
 765405,Trabalhador do acabamento de artefatos de tecidos e couros
 766105,Copiador de chapa
@@ -2176,20 +2176,20 @@ CODIGO,TITULO
 766320,Operador de guilhotina (corte de papel)
 766325,Preparador de matrizes de corte e vinco
 766405,Laboratorista fotográfico
-766410,Revelador de filmes fotográficos, em preto e branco
-766415,Revelador de filmes fotográficos, em cores
+766410,Revelador de filmes fotográficos- em preto e branco
+766415,Revelador de filmes fotográficos- em cores
 766420,Auxiliar de radiologia (revelação fotográfica)
 768105,Tecelão (tear manual)
-768110,Tecelão de tapetes, a  mão
-768115,Tricoteiro, à mão
+768110,Tecelão de tapetes- a  mão
+768115,Tricoteiro- à mão
 768120,Redeiro
 768125,Chapeleiro (chapéus de palha)
-768130,Crocheteiro, a  mão
-768205,Bordador, a  mão
+768130,Crocheteiro- a  mão
+768205,Bordador- a  mão
 768210,Cerzidor
 768305,Artífice do couro
-768310,Cortador de calçados, a  mão (exceto solas)
-768315,Costurador de artefatos de couro, a  mão (exceto roupas e calçados)
+768310,Cortador de calçados- a  mão (exceto solas)
+768315,Costurador de artefatos de couro- a  mão (exceto roupas e calçados)
 768320,Sapateiro (calçados sob medida)
 768325,Seleiro
 768605,Tipógrafo
@@ -2198,7 +2198,7 @@ CODIGO,TITULO
 768620,Paginador
 768625,Pintor de letreiros
 768630,Confeccionador de carimbos de borracha
-768705,Gravador, à mão (encadernação)
+768705,Gravador- à mão (encadernação)
 768710,Restaurador de livros
 770105,Mestre (indústria de madeira e mobiliário)
 770110,Mestre carpinteiro
@@ -2223,7 +2223,7 @@ CODIGO,TITULO
 773310,Operador de entalhadeira (usinagem de madeira)
 773315,Operador de fresadora (usinagem de madeira)
 773320,Operador de lixadeira (usinagem de madeira)
-773325,Operador de máquina de usinagem madeira, em geral
+773325,Operador de máquina de usinagem madeira- em geral
 773330,Operador de molduradora (usinagem de madeira)
 773335,Operador de plaina desengrossadeira
 773340,Operador de serras (usinagem de madeira)
@@ -2242,9 +2242,9 @@ CODIGO,TITULO
 775115,Lustrador de peças de madeira
 775120,Marcheteiro
 776405,Cesteiro
-776410,Confeccionador de escovas, pincéis e produtos similares (a mão)
-776415,Confeccionador de escovas, pincéis e produtos similares (a máquina)
-776420,Confeccionador de móveis de vime, junco e bambu
+776410,Confeccionador de escovas- pincéis e produtos similares (a mão)
+776415,Confeccionador de escovas- pincéis e produtos similares (a máquina)
+776420,Confeccionador de móveis de vime- junco e bambu
 776425,Esteireiro
 776430,Vassoureiro
 777105,Carpinteiro naval (construção de pequenas embarcações)
@@ -2307,8 +2307,8 @@ CODIGO,TITULO
 783230,Bloqueiro (trabalhador portuário)
 783235,Trabalhador portuário de capatazia
 783240,Amarrador e desamarrado de embarcações
-784105,Embalador, a mão
-784110,Embalador, a máquina
+784105,Embalador- a mão
+784110,Embalador- a máquina
 784115,Operador de máquina de etiquetar
 784120,Operador de máquina de envasar líquidos
 784125,Operador de prensa de enfardamento
@@ -2330,7 +2330,7 @@ CODIGO,TITULO
 810205,Mestre (indústria de borracha e plástico)
 810305,Mestre de produção farmacêutica
 811005,Operador de processos químicos e petroquímicos
-811010,Operador de sala de controle de instalações químicas, petroquímicas e afins
+811010,Operador de sala de controle de instalações químicas- petroquímicas e afins
 811105,Moleiro (tratamentos químicos e afins)
 811110,Operador de máquina misturadeira (tratamentos químicos e afins)
 811115,Operador de britadeira (tratamentos químicos e afins)
@@ -2348,8 +2348,8 @@ CODIGO,TITULO
 811335,Operador de filtros de parafina (tratamentos químicos e afins)
 811405,Destilador de madeira
 811410,Destilador de produtos químicos (exceto petróleo)
-811415,Operador de alambique de funcionamento contínuo (produtos químicos, exceto petróleo)
-811420,Operador de aparelho de reação e conversão (produtos químicos, exceto petróleo)
+811415,Operador de alambique de funcionamento contínuo (produtos químicos- exceto petróleo)
+811420,Operador de aparelho de reação e conversão (produtos químicos- exceto petróleo)
 811425,Operador de equipamento de destilação de álcool
 811430,Operador de evaporador na destilação
 811505,Operador de painel de controle (refinação de petróleo)
@@ -2377,15 +2377,15 @@ CODIGO,TITULO
 811805,Operador de máquina de produtos farmacêuticos
 811810,Drageador (medicamentos)
 811815,Operador de máquina de fabricação de cosméticos
-811820,Operador de máquina de fabricação de produtos de higiene e limpeza (sabão, sabonete, detergente, absorvente, fraldas cotonetes e outros)
+811820,Operador de máquina de fabricação de produtos de higiene e limpeza (sabão- sabonete- detergente- absorvente- fraldas cotonetes e outros)
 812105,Pirotécnico
 812110,Trabalhador da fabricação de munição e explosivos
 813105,Cilindrista (petroquímica e afins)
-813110,Operador de calandra (química, petroquímica e afins)
-813115,Operador de extrusora (química, petroquímica e afins)
-813120,Operador de processo (química, petroquímica e afins)
-813125,Operador de produção (química, petroquímica e afins)
-813130,Técnico de operação (química, petroquímica e afins)
+813110,Operador de calandra (química- petroquímica e afins)
+813115,Operador de extrusora (química- petroquímica e afins)
+813120,Operador de processo (química- petroquímica e afins)
+813125,Operador de produção (química- petroquímica e afins)
+813130,Técnico de operação (química- petroquímica e afins)
 818105,Assistente de laboratório industrial
 818110,Auxiliar de laboratório de análises físico-químicas
 820105,Mestre de siderurgia
@@ -2393,7 +2393,7 @@ CODIGO,TITULO
 820115,Mestre de alto-forno
 820120,Mestre de forno elétrico
 820125,Mestre de laminação
-820205,Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins
+820205,Supervisor de fabricação de produtos cerâmicos- porcelanatos e afins
 820210,Supervisor de fabricação de produtos de vidro
 821105,Operador de centro de controle
 821110,Operador de máquina de sinterizar
@@ -2418,11 +2418,11 @@ CODIGO,TITULO
 821405,Encarregado de acabamento de chapas e metais  (têmpera)
 821410,Escarfador
 821415,Marcador de produtos (siderúrgico e metalúrgico)
-821420,Operador de bobinadeira de tiras a quente, no acabamento de chapas e metais
+821420,Operador de bobinadeira de tiras a quente- no acabamento de chapas e metais
 821425,Operador de cabine de laminação (fio-máquina)
 821430,Operador de escória e sucata
 821435,Operador de jato abrasivo
-821440,Operador de tesoura mecânica e máquina de corte, no acabamento de chapas e metais
+821440,Operador de tesoura mecânica e máquina de corte- no acabamento de chapas e metais
 821445,Preparador de sucata e aparas
 821450,Rebarbador de metal
 822105,Forneiro de cubilô
@@ -2440,7 +2440,7 @@ CODIGO,TITULO
 823210,Extrusor de fios ou fibras de vidro
 823215,Forneiro na fundição de vidro
 823220,Forneiro no recozimento de vidro
-823230,Moldador de abrasivos na fabricação de cerâmica, vidro e porcelana
+823230,Moldador de abrasivos na fabricação de cerâmica- vidro e porcelana
 823235,Operador de banho metálico de vidro por flutuação
 823240,Operador de máquina de soprar vidro
 823245,Operador de máquina extrusora de varetas e tubos de vidro
@@ -2454,7 +2454,7 @@ CODIGO,TITULO
 823330,Trabalhador da fabricação de pedras artificiais
 828105,Oleiro (fabricação de telhas)
 828110,Oleiro (fabricação de tijolos)
-830105,Mestre (indústria de celulose, papel e papelão)
+830105,Mestre (indústria de celulose- papel e papelão)
 831105,Cilindreiro na preparação de pasta para fabricação de papel
 831110,Operador de branqueador de pasta para fabricação de papel
 831115,Operador de digestor de pasta para fabricação de papel
@@ -2466,12 +2466,12 @@ CODIGO,TITULO
 832120,Operador de máquina de fabricar papel (fase seca)
 832125,Operador de máquina de fabricar papel e papelão
 832135,Operador de rebobinadeira na fabricação de papel e papelão
-833105,Cartonageiro, a máquina
-833110,Confeccionador de bolsas, sacos e sacolas e papel, a máquina
-833115,Confeccionador de sacos de celofane, a máquina
+833105,Cartonageiro- a máquina
+833110,Confeccionador de bolsas- sacos e sacolas e papel- a máquina
+833115,Confeccionador de sacos de celofane- a máquina
 833120,Operador de máquina de cortar e dobrar papelão
 833125,Operador de prensa de embutir papelão
-833205,Cartonageiro, a mão (caixas de papelão)
+833205,Cartonageiro- a mão (caixas de papelão)
 840105,Supervisor de produção da indústria alimentícia
 840110,Supervisor da indústria de bebidas
 840115,Supervisor da indústria de fumo
@@ -2516,8 +2516,8 @@ CODIGO,TITULO
 841735,Dessecador de malte
 841740,Vinagreiro
 841745,Xaropeiro
-841805,Operador de forno (fabricação de pães, biscoitos e similares)
-841810,Operador de máquinas de fabricação de doces, salgados e massas alimentícias
+841805,Operador de forno (fabricação de pães- biscoitos e similares)
+841810,Operador de máquinas de fabricação de doces- salgados e massas alimentícias
 841815,Operador de máquinas de fabricação de chocolates e achocolatados
 842105,Preparador de melado e essência de fumo
 842110,Processador de fumo
@@ -2534,7 +2534,7 @@ CODIGO,TITULO
 842235,Degustador de charutos
 848105,Defumador de carnes e pescados
 848110,Salgador de alimentos
-848115,Salsicheiro (fabricação de lingüiça, salsicha e produtos similares)
+848115,Salsicheiro (fabricação de lingüiça- salsicha e produtos similares)
 848205,Pasteurizador
 848210,Queijeiro na fabricação de laticínio
 848215,Manteigueiro na fabricação de laticínio
@@ -2554,8 +2554,8 @@ CODIGO,TITULO
 848525,Retalhador de carne
 848605,Trabalhador do beneficiamento de fumo
 860105,Supervisor de manutenção eletromecânica (utilidades)
-860110,Supervisor de operação de fluidos (distribuição, captação, tratamento de água, gases, vapor)
-860115,Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica)
+860110,Supervisor de operação de fluidos (distribuição- captação- tratamento de água- gases- vapor)
+860115,Supervisor de operação elétrica (geração- transmissão e distribuição de energia elétrica)
 861105,Operador de central hidrelétrica
 861110,Operador de quadro de distribuição de energia elétrica
 861115,Operador de central termoelétrica
@@ -2567,19 +2567,19 @@ CODIGO,TITULO
 862120,Operador de caldeira
 862130,Operador de compressor de ar
 862140,Operador de estação de bombeamento
-862150,Operador de máquinas fixas, em geral
-862155,Operador de utilidade (produção e distribuição de vapor, gás, óleo, combustível, energia, oxigênio)
+862150,Operador de máquinas fixas- em geral
+862155,Operador de utilidade (produção e distribuição de vapor- gás- óleo- combustível- energia- oxigênio)
 862160,Operador de abastecimento de combustível de aeronave
-862205,Operador de estação de captação, tratamento e distribuição de água
+862205,Operador de estação de captação- tratamento e distribuição de água
 862305,Operador de estação de tratamento de água e efluentes
-862310,Operador de forno de incineração no tratamento de água, efluentes e resíduos industriais
-862405,Operador de instalação de extração, processamento, envasamento e distribuição de gases
+862310,Operador de forno de incineração no tratamento de água- efluentes e resíduos industriais
+862405,Operador de instalação de extração- processamento- envasamento e distribuição de gases
 862505,Operador de instalação de refrigeração
 862510,Operador de refrigeração com amônia
 862515,Operador de instalação de ar-condicionado
 910105,Encarregado de manutenção mecânica de sistemas operacionais
-910110,Supervisor de manutenção de aparelhos térmicos, de climatização e de refrigeração
-910115,Supervisor de manutenção de bombas, motores, compressores e equipamentos de transmissão
+910110,Supervisor de manutenção de aparelhos térmicos- de climatização e de refrigeração
+910115,Supervisor de manutenção de bombas- motores- compressores e equipamentos de transmissão
 910120,Supervisor de manutenção de máquinas gráficas
 910125,Supervisor de manutenção de máquinas industriais têxteis
 910130,Supervisor de manutenção de máquinas operatrizes e de usinagem
@@ -2595,7 +2595,7 @@ CODIGO,TITULO
 911130,Mecânico de manutenção de turbinas (exceto de aeronaves)
 911135,Mecânico de manutenção de turbocompressores
 911205,Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração
-911305,Mecânico de manutenção de máquinas, em geral
+911305,Mecânico de manutenção de máquinas- em geral
 911310,Mecânico de manutenção de máquinas gráficas
 911315,Mecânico de manutenção de máquinas operatrizes (lavra de madeira)
 911320,Mecânico de manutenção de máquinas têxteis
@@ -2604,11 +2604,11 @@ CODIGO,TITULO
 913110,Mecânico de manutenção de equipamento de mineração
 913115,Mecânico de manutenção de máquinas agrícolas
 913120,Mecânico de manutenção de máquinas de construção e terraplenagem
-914105,Mecânico de manutenção de aeronaves, em geral
+914105,Mecânico de manutenção de aeronaves- em geral
 914110,Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)
 914205,Mecânico de manutenção de motores e equipamentos navais
 914305,Mecânico de manutenção de veículos ferroviários
-914405,Mecânico de manutenção de automóveis, motocicletas e veículos similares
+914405,Mecânico de manutenção de automóveis- motocicletas e veículos similares
 914410,Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves
 914415,Mecânico de manutenção de motocicletas
 914420,Mecânico de manutenção de tratores
@@ -2624,12 +2624,12 @@ CODIGO,TITULO
 919105,Lubrificador industrial
 919110,Lubrificador de veículos automotores (exceto embarcações)
 919115,Lubrificador de embarcações
-919205,Mecânico de manutenção de máquinas cortadoras de grama, roçadeiras, motosserras e similares
+919205,Mecânico de manutenção de máquinas cortadoras de grama- roçadeiras- motosserras e similares
 919305,Mecânico de manutenção de aparelhos esportivos e de ginástica
 919310,Mecânico de manutenção de bicicletas e veículos similares
 919315,Montador de bicicletas
 950105,Supervisor de manutenção elétrica de alta tensão industrial
-950110,Supervisor de manutenção eletromecânica industrial, comercial e predial
+950110,Supervisor de manutenção eletromecânica industrial- comercial e predial
 950205,Encarregado de manutenção elétrica de veículos
 950305,Supervisor de manutenção eletromecânica
 951105,Eletricista de manutenção eletroeletrônica
@@ -2639,14 +2639,14 @@ CODIGO,TITULO
 951320,Monitor de sistemas eletrônicos de segurança externo
 953105,Eletricista de instalações (aeronaves)
 953110,Eletricista de instalações (embarcações)
-953115,Eletricista de instalações (veículos automotores e máquinas operatrizes, exceto aeronaves e embarcações)
+953115,Eletricista de instalações (veículos automotores e máquinas operatrizes- exceto aeronaves e embarcações)
 954105,Eletromecânico de manutenção de elevadores
 954110,Eletromecânico de manutenção de escadas rolantes
 954115,Eletromecânico de manutenção de portas automáticas
 954120,Mecânico de manutenção de instalações mecânicas de edifícios
 954125,Operador eletromecânico
 954205,Reparador de aparelhos eletrodomésticos (exceto imagem e som)
-954210,Reparador de rádio, tv e som
+954210,Reparador de rádio- tv e som
 954305,Reparador de equipamentos de escritório
 991105,Conservador de via permanente (trilhos)
 991110,Inspetor de via permanente (trilhos)
