@@ -7,23 +7,23 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430040,Alegrete,74173,10,Centro-Oeste,Região 03 - Fronteira Oeste
 430045,Alegria,3559,14,Missioneira,Região 14 - Fronteira Noroeste
 430047,Almirante Tamandaré do Sul,1979,6,Norte,Região 17 - Planalto
-430050,Alpestre,6458,19,Norte,Região 15 - Caminho das Águas
+430050,Alpestre,6458,2,Norte,Região 15 - Caminho das Águas
 430055,Alto Alegre,1663,6,Norte,Região 19 - Botucaraí
 430057,Alto Feliz,3020,5,Serra,Região 26 - Uva Vale
-430060,Alvorada,209213,2,Metropolitana,Região 10 - Capital e Vale do Gravataí
+430060,Alvorada,209213,1,Metropolitana,Região 10 - Capital e Vale do Gravataí
 430063,Amaral Ferrador,6974,3,Sul,Região 21 - Sul
-430064,Ametista do Sul,7416,19,Norte,Região 15 - Caminho das Águas
+430064,Ametista do Sul,7416,2,Norte,Região 15 - Caminho das Águas
 430066,André da Rocha,1324,6,Norte,Região 18 - Araucárias
 430070,Anta Gorda,6003,16,Vales,Região 29 - Vales e Montanhas
 430080,Antônio Prado,13055,5,Serra,Região 26 - Uva Vale
-430085,Arambaré,3600,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430085,Arambaré,3600,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430087,Araricá,5622,1,Metropolitana,Região 07 - Vale dos Sinos
 430090,Aratiba,6283,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430100,Arroio do Meio,20637,16,Vales,Região 29 - Vales e Montanhas
 430107,Arroio do Padre,2921,3,Sul,Região 21 - Sul
 430105,Arroio do Sal,9842,18,Metropolitana,Região 04 - Belas Praias
 430120,Arroio do Tigre,13332,8,Vales,Região 27 - Jacuí Centro
-430110,Arroio dos Ratos,14123,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430110,Arroio dos Ratos,14123,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430130,Arroio Grande,18351,3,Sul,Região 21 - Sul
 430140,Arvorezinha,10425,6,Norte,Região 19 - Botucaraí
 430150,Augusto Pestana,6706,17,Missioneira,Região 13 - Diversidade
@@ -32,10 +32,10 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430163,Balneário Pinhal,13760,18,Metropolitana,Região 05 - Bons Ventos
 430165,Barão,6139,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
 430170,Barão de Cotegipe,6627,11,Norte,Região 16 - Alto Uruguai Gaúcho
-430175,Barão do Triunfo,7454,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
-430185,Barra do Guarita,3238,19,Norte,Região 15 - Caminho das Águas
+430175,Barão do Triunfo,7454,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430185,Barra do Guarita,3238,2,Norte,Região 15 - Caminho das Águas
 430187,Barra do Quaraí,4202,10,Centro-Oeste,Região 03 - Fronteira Oeste
-430190,Barra do Ribeiro,13423,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430190,Barra do Ribeiro,13423,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430192,Barra do Rio Azul,1726,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430195,Barra Funda,2527,15,Norte,Região 20 - Rota da Produção
 430180,Barracão,5295,6,Norte,Região 18 - Araucárias
@@ -49,22 +49,22 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430225,Boa Vista do Sul,2788,5,Serra,Região 25 - Vinhedos e Basalto
 430230,Bom Jesus,11391,5,Serra,Região 24 - Campos de Cima da Serra
 430235,Bom Princípio,13846,5,Serra,Região 26 - Uva Vale
-430237,Bom Progresso,1987,19,Norte,Região 15 - Caminho das Águas
+430237,Bom Progresso,1987,2,Norte,Região 15 - Caminho das Águas
 430240,Bom Retiro do Sul,12265,16,Vales,Região 30 - Vale da Luz
 430245,Boqueirão do Leão,7726,16,Vales,Região 29 - Vales e Montanhas
 430250,Bossoroca,6356,12,Missioneira,Região 11 - Sete Povos das Missões
 430258,Bozano,2135,17,Missioneira,Região 13 - Diversidade
 430260,Braga,3397,15,Norte,Região 20 - Rota da Produção
 430265,Brochier,5043,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
-430270,Butiá,20929,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430270,Butiá,20929,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430280,Caçapava do Sul,33702,8,Vales,Região 27 - Jacuí Centro
 430290,Cacequi,12705,4,Centro-Oeste,Região 02 - Entre Rios
 430300,Cachoeira do Sul,82547,8,Vales,Região 27 - Jacuí Centro
-430310,Cachoeirinha,129307,2,Metropolitana,Região 10 - Capital e Vale do Gravataí
+430310,Cachoeirinha,129307,1,Metropolitana,Região 10 - Capital e Vale do Gravataí
 430320,Cacique Doble,5055,6,Norte,Região 18 - Araucárias
 430330,Caibaté,4856,12,Missioneira,Região 11 - Sete Povos das Missões
-430340,Caiçara,4788,19,Norte,Região 15 - Caminho das Águas
-430350,Camaquã,66034,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430340,Caiçara,4788,2,Norte,Região 15 - Caminho das Águas
+430350,Camaquã,66034,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430355,Camargo,2724,6,Norte,Região 17 - Planalto
 430360,Cambará do Sul,6456,1,Metropolitana,Região 06 - Vale do Paranhana e Costa Serra
 430367,Campestre da Serra,3380,5,Serra,Região 24 - Campos de Cima da Serra
@@ -99,14 +99,14 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430512,Cerrito,6136,3,Sul,Região 21 - Sul
 430513,Cerro Branco,4676,8,Vales,Região 27 - Jacuí Centro
 430515,Cerro Grande,2327,15,Norte,Região 20 - Rota da Produção
-430517,Cerro Grande do Sul,12058,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430517,Cerro Grande do Sul,12058,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430520,Cerro Largo,14074,12,Missioneira,Região 11 - Sete Povos das Missões
 430530,Chapada,9300,15,Norte,Região 20 - Rota da Produção
-430535,Charqueadas,40301,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430535,Charqueadas,40301,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430537,Charrua,3306,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430540,Chiapetta,3794,17,Missioneira,Região 13 - Diversidade
 430543,Chuí,6635,3,Sul,Região 21 - Sul
-430544,Chuvisca,5401,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430544,Chuvisca,5401,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430545,Cidreira,15912,18,Metropolitana,Região 05 - Bons Ventos
 430550,Ciríaco,4775,6,Norte,Região 17 - Planalto
 430558,Colinas,2442,16,Vales,Região 30 - Vale da Luz
@@ -122,24 +122,24 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430597,Coxilha,2769,6,Norte,Região 17 - Planalto
 430600,Crissiumal,13544,17,Missioneira,Região 13 - Diversidade
 430605,Cristal,7950,3,Sul,Região 21 - Sul
-430607,Cristal do Sul,2851,19,Norte,Região 15 - Caminho das Águas
+430607,Cristal do Sul,2851,2,Norte,Região 15 - Caminho das Águas
 430610,Cruz Alta,60693,9,Missioneira,Região 12 - Portal das Missões
 430613,Cruzaltense,1870,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430620,Cruzeiro do Sul,12290,16,Vales,Região 29 - Vales e Montanhas
 430630,David Canabarro,4744,6,Norte,Região 17 - Planalto
-430632,Derrubadas,2852,19,Norte,Região 15 - Caminho das Águas
+430632,Derrubadas,2852,2,Norte,Região 15 - Caminho das Águas
 430635,Dezesseis de Novembro,2478,12,Missioneira,Região 11 - Sete Povos das Missões
 430637,Dilermando de Aguiar,3026,4,Centro-Oeste,Região 01 - Verdes Campos
 430640,Dois Irmãos,32205,1,Metropolitana,Região 07 - Vale dos Sinos
 430642,Dois Irmãos das Missões,2044,15,Norte,Região 20 - Rota da Produção
 430645,Dois Lajeados,3394,16,Vales,Região 29 - Vales e Montanhas
-430650,Dom Feliciano,15338,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430650,Dom Feliciano,15338,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430660,Dom Pedrito,38589,7,Sul,Região 22 - Pampa
 430655,Dom Pedro de Alcântara,2541,18,Metropolitana,Região 04 - Belas Praias
 430670,Dona Francisca,3086,4,Centro-Oeste,Região 01 - Verdes Campos
 430673,Doutor Maurício Cardoso,4639,14,Missioneira,Região 14 - Fronteira Noroeste
 430675,Doutor Ricardo,1994,16,Vales,Região 29 - Vales e Montanhas
-430676,Eldorado do Sul,40643,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430676,Eldorado do Sul,40643,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430680,Encantado,22520,16,Vales,Região 29 - Vales e Montanhas
 430690,Encruzilhada do Sul,25791,8,Vales,Região 27 - Jacuí Centro
 430692,Engenho Velho,1088,15,Norte,Região 20 - Rota da Produção
@@ -149,9 +149,9 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430700,Erechim,105059,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430705,Ernestina,3167,6,Norte,Região 17 - Planalto
 430720,Erval Grande,4902,11,Norte,Região 16 - Alto Uruguai Gaúcho
-430730,Erval Seco,7040,19,Norte,Região 15 - Caminho das Águas
+430730,Erval Seco,7040,2,Norte,Região 15 - Caminho das Águas
 430740,Esmeralda,3277,5,Serra,Região 24 - Campos de Cima da Serra
-430745,Esperança do Sul,2969,19,Norte,Região 15 - Caminho das Águas
+430745,Esperança do Sul,2969,2,Norte,Região 15 - Caminho das Águas
 430750,Espumoso,15584,6,Norte,Região 19 - Botucaraí
 430755,Estação,5976,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430760,Estância Velha,49345,1,Metropolitana,Região 07 - Vale dos Sinos
@@ -171,21 +171,21 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 430840,Formigueiro,6715,4,Centro-Oeste,Região 01 - Verdes Campos
 430843,Forquetinha,2424,16,Vales,Região 29 - Vales e Montanhas
 430845,Fortaleza dos Valos,4356,9,Missioneira,Região 12 - Portal das Missões
-430850,Frederico Westphalen,31120,19,Norte,Região 15 - Caminho das Águas
+430850,Frederico Westphalen,31120,2,Norte,Região 15 - Caminho das Águas
 430860,Garibaldi,34684,5,Serra,Região 25 - Vinhedos e Basalto
 430865,Garruchos,2963,12,Missioneira,Região 11 - Sete Povos das Missões
 430870,Gaurama,5580,11,Norte,Região 16 - Alto Uruguai Gaúcho
-430880,General Câmara,8409,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430880,General Câmara,8409,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430885,Gentil,1642,6,Norte,Região 17 - Planalto
 430890,Getúlio Vargas,16240,11,Norte,Região 16 - Alto Uruguai Gaúcho
 430900,Giruá,16151,14,Missioneira,Região 14 - Fronteira Noroeste
-430905,Glorinha,7988,2,Metropolitana,Região 10 - Capital e Vale do Gravataí
+430905,Glorinha,7988,1,Metropolitana,Região 10 - Capital e Vale do Gravataí
 430910,Gramado,35875,5,Serra,Região 23 - Caxias e Hortênsias
 430912,Gramado dos Loureiros,2106,15,Norte,Região 20 - Rota da Produção
 430915,Gramado Xavier,4297,13,Vales,Região 28 - Vale do Rio Pardo
-430920,Gravataí,279398,2,Metropolitana,Região 10 - Capital e Vale do Gravataí
+430920,Gravataí,279398,1,Metropolitana,Região 10 - Capital e Vale do Gravataí
 430925,Guabiju,1516,5,Serra,Região 25 - Vinhedos e Basalto
-430930,Guaíba,98043,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+430930,Guaíba,98043,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 430940,Guaporé,25475,5,Serra,Região 25 - Vinhedos e Basalto
 430950,Guarani das Missões,7614,12,Missioneira,Região 11 - Sete Povos das Missões
 430955,Harmonia,4812,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
@@ -208,7 +208,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431041,Inhacorá,2235,17,Missioneira,Região 13 - Diversidade
 431043,Ipê,6588,5,Serra,Região 26 - Uva Vale
 431046,Ipiranga do Sul,1899,11,Norte,Região 16 - Alto Uruguai Gaúcho
-431050,Iraí,7344,19,Norte,Região 15 - Caminho das Águas
+431050,Iraí,7344,2,Norte,Região 15 - Caminho das Águas
 431053,Itaara,5459,4,Centro-Oeste,Região 01 - Verdes Campos
 431055,Itacurubi,3470,4,Centro-Oeste,Região 02 - Entre Rios
 431057,Itapuca,2125,6,Norte,Região 19 - Botucaraí
@@ -233,7 +233,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431140,Lajeado,82951,16,Vales,Região 29 - Vales e Montanhas
 431142,Lajeado do Bugre,2561,15,Norte,Região 20 - Rota da Produção
 431150,Lavras do Sul,7516,7,Sul,Região 22 - Pampa
-431160,Liberato Salzano,5289,19,Norte,Região 15 - Caminho das Águas
+431160,Liberato Salzano,5289,2,Norte,Região 15 - Caminho das Águas
 431162,Lindolfo Collor,5980,1,Metropolitana,Região 07 - Vale dos Sinos
 431164,Linha Nova,1708,5,Serra,Região 23 - Caxias e Hortênsias
 431171,Maçambará,4613,10,Centro-Oeste,Região 03 - Fronteira Oeste
@@ -244,7 +244,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431179,Maratá,2680,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
 431180,Marau,43435,6,Norte,Região 17 - Planalto
 431190,Marcelino Ramos,4488,11,Norte,Região 16 - Alto Uruguai Gaúcho
-431198,Mariana Pimentel,3881,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+431198,Mariana Pimentel,3881,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 431200,Mariano Moro,2054,11,Norte,Região 16 - Alto Uruguai Gaúcho
 431205,Marques de Souza,4024,16,Vales,Região 29 - Vales e Montanhas
 431210,Mata,4864,4,Centro-Oeste,Região 02 - Entre Rios
@@ -252,7 +252,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431215,Mato Leitão,4456,13,Vales,Região 28 - Vale do Rio Pardo
 431217,Mato Queimado,1665,12,Missioneira,Região 11 - Sete Povos das Missões
 431220,Maximiliano de Almeida,4443,6,Norte,Região 18 - Araucárias
-431225,Minas do Leão,8045,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+431225,Minas do Leão,8045,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 431230,Miraguaí,4824,15,Norte,Região 20 - Rota da Produção
 431235,Montauri,1466,6,Norte,Região 17 - Planalto
 431237,Monte Alegre dos Campos,3220,5,Serra,Região 24 - Campos de Cima da Serra
@@ -288,13 +288,13 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431339,Novo Cabrais,4169,8,Vales,Região 27 - Jacuí Centro
 431340,Novo Hamburgo,246452,1,Metropolitana,Região 07 - Vale dos Sinos
 431342,Novo Machado,3394,14,Missioneira,Região 14 - Fronteira Noroeste
-431344,Novo Tiradentes,2223,19,Norte,Região 15 - Caminho das Águas
+431344,Novo Tiradentes,2223,2,Norte,Região 15 - Caminho das Águas
 431346,Novo Xingu,1727,15,Norte,Região 20 - Rota da Produção
 431350,Osório,45557,18,Metropolitana,Região 05 - Bons Ventos
 431360,Paim Filho,3880,6,Norte,Região 18 - Araucárias
 431365,Palmares do Sul,11306,18,Metropolitana,Região 05 - Bons Ventos
 431370,Palmeira das Missões,33481,15,Norte,Região 20 - Rota da Produção
-431380,Palmitinho,7058,19,Norte,Região 15 - Caminho das Águas
+431380,Palmitinho,7058,2,Norte,Região 15 - Caminho das Águas
 431390,Panambi,43170,17,Missioneira,Região 13 - Diversidade
 431395,Pantano Grande,9269,13,Vales,Região 28 - Vale do Rio Pardo
 431400,Paraí,7585,5,Serra,Região 25 - Vinhedos e Basalto
@@ -311,20 +311,20 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431430,Pejuçara,3893,17,Missioneira,Região 13 - Diversidade
 431440,Pelotas,341648,3,Sul,Região 21 - Sul
 431442,Picada Café,5696,5,Serra,Região 23 - Caxias e Hortênsias
-431445,Pinhal,2577,19,Norte,Região 15 - Caminho das Águas
+431445,Pinhal,2577,2,Norte,Região 15 - Caminho das Águas
 431446,Pinhal da Serra,1965,5,Serra,Região 24 - Campos de Cima da Serra
 431447,Pinhal Grande,4372,4,Centro-Oeste,Região 01 - Verdes Campos
-431449,Pinheirinho do Vale,4842,19,Norte,Região 15 - Caminho das Águas
+431449,Pinheirinho do Vale,4842,2,Norte,Região 15 - Caminho das Águas
 431450,Pinheiro Machado,12351,3,Sul,Região 21 - Sul
 431454,Pinto Bandeira,2968,5,Serra,Região 25 - Vinhedos e Basalto
 431455,Pirapó,2357,12,Missioneira,Região 11 - Sete Povos das Missões
 431460,Piratini,20621,3,Sul,Região 21 - Sul
-431470,Planalto,10152,19,Norte,Região 15 - Caminho das Águas
+431470,Planalto,10152,2,Norte,Região 15 - Caminho das Águas
 431475,Poço das Antas,2094,16,Vales,Região 30 - Vale da Luz
 431477,Pontão,3908,6,Norte,Região 17 - Planalto
 431478,Ponte Preta,1572,11,Norte,Região 16 - Alto Uruguai Gaúcho
 431480,Portão,36510,1,Metropolitana,Região 07 - Vale dos Sinos
-431490,Porto Alegre,1479101,2,Metropolitana,Região 10 - Capital e Vale do Gravataí
+431490,Porto Alegre,1479101,1,Metropolitana,Região 10 - Capital e Vale do Gravataí
 431500,Porto Lucena,4765,14,Missioneira,Região 14 - Fronteira Noroeste
 431505,Porto Mauá,2397,14,Missioneira,Região 14 - Fronteira Noroeste
 431507,Porto Vera Cruz,1415,14,Missioneira,Região 14 - Fronteira Noroeste
@@ -346,7 +346,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431570,Rio Pardo,38284,13,Vales,Região 28 - Vale do Rio Pardo
 431575,Riozinho,4629,1,Metropolitana,Região 06 - Vale do Paranhana e Costa Serra
 431580,Roca Sales,11300,16,Vales,Região 29 - Vales e Montanhas
-431590,Rodeio Bonito,5867,19,Norte,Região 15 - Caminho das Águas
+431590,Rodeio Bonito,5867,2,Norte,Região 15 - Caminho das Águas
 431595,Rolador,2352,12,Missioneira,Região 11 - Sete Povos das Missões
 431600,Rolante,21199,1,Metropolitana,Região 06 - Vale do Paranhana e Costa Serra
 431610,Ronda Alta,10583,15,Norte,Região 20 - Rota da Produção
@@ -385,7 +385,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431810,São Francisco de Assis,18471,4,Centro-Oeste,Região 02 - Entre Rios
 431820,São Francisco de Paula,21633,1,Metropolitana,Região 06 - Vale do Paranhana e Costa Serra
 431830,São Gabriel,62061,10,Centro-Oeste,Região 03 - Fronteira Oeste
-431840,São Jerônimo,24078,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+431840,São Jerônimo,24078,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 431842,São João da Urtiga,4674,6,Norte,Região 18 - Araucárias
 431843,São João do Polêsine,2561,4,Centro-Oeste,Região 01 - Verdes Campos
 431844,São Jorge,2757,5,Serra,Região 25 - Vinhedos e Basalto
@@ -420,16 +420,16 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 431990,Sapiranga,81198,1,Metropolitana,Região 07 - Vale dos Sinos
 432000,Sapucaia do Sul,140311,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
 432010,Sarandi,24205,15,Norte,Região 20 - Rota da Produção
-432020,Seberi,10788,19,Norte,Região 15 - Caminho das Águas
+432020,Seberi,10788,2,Norte,Região 15 - Caminho das Águas
 432023,Sede Nova,2924,17,Missioneira,Região 13 - Diversidade
 432026,Segredo,7399,8,Vales,Região 27 - Jacuí Centro
 432030,Selbach,5093,9,Missioneira,Região 12 - Portal das Missões
 432032,Senador Salgado Filho,2788,14,Missioneira,Região 14 - Fronteira Noroeste
-432035,Sentinela do Sul,5553,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+432035,Sentinela do Sul,5553,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 432040,Serafina Corrêa,17198,6,Norte,Região 17 - Planalto
 432045,Sério,2000,16,Vales,Região 29 - Vales e Montanhas
 432050,Sertão,5519,6,Norte,Região 17 - Planalto
-432055,Sertão Santana,6433,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+432055,Sertão Santana,6433,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 432057,Sete de Setembro,1990,12,Missioneira,Região 11 - Sete Povos das Missões
 432060,Severiano de Almeida,3685,11,Norte,Região 16 - Alto Uruguai Gaúcho
 432065,Silveira Martins,2394,4,Centro-Oeste,Região 01 - Verdes Campos
@@ -439,16 +439,16 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 432085,Tabaí,4667,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
 432090,Tapejara,23651,6,Norte,Região 18 - Araucárias
 432100,Tapera,10593,6,Norte,Região 19 - Botucaraí
-432110,Tapes,17266,2,Metropolitana,Região 09 - Carbonífera/Costa Doce
+432110,Tapes,17266,1,Metropolitana,Região 09 - Carbonífera/Costa Doce
 432120,Taquara,57292,1,Metropolitana,Região 06 - Vale do Paranhana e Costa Serra
 432130,Taquari,26838,16,Vales,Região 30 - Vale da Luz
-432132,Taquaruçu do Sul,3068,19,Norte,Região 15 - Caminho das Águas
+432132,Taquaruçu do Sul,3068,2,Norte,Região 15 - Caminho das Águas
 432135,Tavares,5479,18,Metropolitana,Região 05 - Bons Ventos
-432140,Tenente Portela,13538,19,Norte,Região 15 - Caminho das Águas
+432140,Tenente Portela,13538,2,Norte,Região 15 - Caminho das Águas
 432143,Terra de Areia,11088,18,Metropolitana,Região 04 - Belas Praias
 432145,Teutônia,32676,16,Vales,Região 30 - Vale da Luz
 432146,Tio Hugo,3004,6,Norte,Região 19 - Botucaraí
-432147,Tiradentes do Sul,5796,19,Norte,Região 15 - Caminho das Águas
+432147,Tiradentes do Sul,5796,2,Norte,Região 15 - Caminho das Águas
 432149,Toropi,2827,4,Centro-Oeste,Região 01 - Verdes Campos
 432150,Torres,38386,18,Metropolitana,Região 04 - Belas Praias
 432160,Tramandaí,50760,18,Metropolitana,Região 05 - Bons Ventos
@@ -459,7 +459,7 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 432180,Três de Maio,23938,14,Missioneira,Região 14 - Fronteira Noroeste
 432183,Três Forquilhas,2725,18,Metropolitana,Região 04 - Belas Praias
 432185,Três Palmeiras,4291,15,Norte,Região 20 - Rota da Produção
-432190,Três Passos,23963,19,Norte,Região 15 - Caminho das Águas
+432190,Três Passos,23963,2,Norte,Região 15 - Caminho das Águas
 432195,Trindade do Sul,5813,15,Norte,Região 20 - Rota da Produção
 432200,Triunfo,29207,1,Metropolitana,Região 08 - Vale do Caí e Metropolitana
 432210,Tucunduva,5713,14,Missioneira,Região 14 - Fronteira Noroeste
@@ -483,16 +483,16 @@ IBGE6,Município,População_estimada,CRS,Macro,Região_saude
 432280,Veranópolis,25936,5,Serra,Região 25 - Vinhedos e Basalto
 432285,Vespasiano Correa,1835,16,Vales,Região 29 - Vales e Montanhas
 432290,Viadutos,4825,11,Norte,Região 16 - Alto Uruguai Gaúcho
-432300,Viamão,254101,2,Metropolitana,Região 10 - Capital e Vale do Gravataí
-432310,Vicente Dutra,4745,19,Norte,Região 15 - Caminho das Águas
+432300,Viamão,254101,1,Metropolitana,Região 10 - Capital e Vale do Gravataí
+432310,Vicente Dutra,4745,2,Norte,Região 15 - Caminho das Águas
 432320,Victor Graeff,2904,6,Norte,Região 17 - Planalto
 432330,Vila Flores,3374,5,Serra,Região 25 - Vinhedos e Basalto
 432335,Vila Lângaro,2102,6,Norte,Região 18 - Araucárias
 432340,Vila Maria,4353,6,Norte,Região 17 - Planalto
 432345,Vila Nova do Sul,4283,4,Centro-Oeste,Região 01 - Verdes Campos
-432350,Vista Alegre,2766,19,Norte,Região 15 - Caminho das Águas
+432350,Vista Alegre,2766,2,Norte,Região 15 - Caminho das Águas
 432360,Vista Alegre do Prata,1565,5,Serra,Região 25 - Vinhedos e Basalto
-432370,Vista Gaúcha,2847,19,Norte,Região 15 - Caminho das Águas
+432370,Vista Gaúcha,2847,2,Norte,Região 15 - Caminho das Águas
 432375,Vitória das Missões,3177,12,Missioneira,Região 11 - Sete Povos das Missões
 432377,Westfalia,2998,16,Vales,Região 30 - Vale da Luz
 432380,Xangri-lá,16025,18,Metropolitana,Região 04 - Belas Praias
