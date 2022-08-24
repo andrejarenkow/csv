@@ -1,0 +1,370 @@
+co_regional_saude|co_uf_ibge|co_macrorregional|no_regional_saude|no_abreviado_regional_saude|st_registro_ativo
+1100|  11|  |  Municipio ignorado - RO|  Municipio ignorado - RO|  S
+1101|  11|  |  I Delegacia Regional de Saude|  I DRS|  S
+1102|  11|  |  II Delegacia Regional de Saude|  II DRS|  S
+1103|  11|  |  III Delegacia Regional de Saude|  III DRS|  S
+1104|  11|  |  Departamento de Epidemiologia|  Dept.Epidemiologia|  S
+1200|  12|  |  Municipio ignorado - AC|  Municipio ignorado - AC|  S
+1201|  12|  |  Acre|  Acre|  S
+1202|  12|  |  Brasileia|  Brasileia|  S
+1203|  12|  |  Cruzeiro do Sul|  Cruzeiro do Sul|  S
+1300|  13|  |  Municipio ignorado - AM|  Municipio ignorado - AM|  S
+1301|  13|  |  DIRES 1|  DIRES 1|  S
+1302|  13|  |  DIRES 2|  DIRES 2|  S
+1303|  13|  |  DIRES 3|  DIRES 3|  S
+1304|  13|  |  DIRES 4|  DIRES 4|  S
+1305|  13|  |  DIRES 5|  DIRES 5|  S
+1306|  13|  |  DIRES 6|  DIRES 6|  S
+1307|  13|  |  DIRES 7|  DIRES 7|  S
+1308|  13|  |  DIRES 8|  DIRES 8|  S
+1309|  13|  |  DIRES 9|  DIRES 9|  S
+1310|  13|  |  DIRES 10|  DIRES 10|  S
+1400|  14|  |  Municipio ignorado - RR|  Municipio ignorado - RR|  S
+1401|  14|  |  Secretaria Estadual de Saude|  SES - RR|  S
+1500|  15|  |  Municipio ignorado - PA|  Municipio ignorado - PA|  S
+1501|  15|  |  I Regional de Saude|  I RS|  S
+1502|  15|  |  II Regional de Saude|  II RS|  S
+1503|  15|  |  III Regional de Saude|  III RS|  S
+1504|  15|  |  IV Regional de Saude|  IV RS|  S
+1505|  15|  |  V Regional de Saude|  V RS|  S
+1506|  15|  |  VI Regional de Saude|  VI RS|  S
+1507|  15|  |  VII Regional de Saude|  VII RS|  S
+1508|  15|  |  VIII Regional de Saude|  VIII RS|  S
+1509|  15|  |  IX Regional de Saude|  IX RS|  S
+1510|  15|  |  X Regional de Saude|  X RS|  S
+1511|  15|  |  XI Regional de Saude|  XI RS|  S
+1512|  15|  |  XII Regional de Saude|  XII RS|  S
+1513|  15|  |  XIII Regional de Saude|  XIII RS|  S
+1600|  16|  |  Municipio ignorado - AP|  Municipio ignorado - AP|  S
+1601|  16|  |  I Regional de Saude|  I RS|  S
+1602|  16|  |  II Regional de Saude|  II RS|  S
+1700|  17|  |  Municipio ignorado - TO|  Municipio ignorado - TO|  S
+1701|  17|  |  Extremo Norte|  Extremo Norte|  S
+1702|  17|  |  Norte|  Norte|  S
+1703|  17|  |  Nordeste|  Nordeste|  S
+1704|  17|  |  Noroeste|  Noroeste|  S
+1705|  17|  |  Central|  Central|  S
+1706|  17|  |  Leste|  Leste|  S
+1707|  17|  |  Sul|  Sul|  S
+1708|  17|  |  Centro-Oeste|  Centro-Oeste|  S
+1709|  17|  |  Sudeste|  Sudeste|  S
+1710|  17|  |  Sudoeste|  Sudoeste|  S
+2100|  21|  |  Municipio ignorado - MA|  Municipio ignorado - MA|  S
+2101|  21|  |  Sao Luiz|  Sao Luiz|  S
+2102|  21|  |  Rosario|  Rosario|  S
+2103|  21|  |  Itapecuru-Mirim|  Itapecuru-Mirim|  S
+2104|  21|  |  Chapadinha|  Chapadinha|  S
+2105|  21|  |  Codo|  Codo|  S
+2106|  21|  |  Pinheiro|  Pinheiro|  S
+2107|  21|  |  Viana|  Viana|  S
+2108|  21|  |  Santa Ines|  Santa Ines|  S
+2109|  21|  |  Ze Doca|  Ze Doca|  S
+2110|  21|  |  Acailandia|  Acailandia|  S
+2111|  21|  |  Imperatriz|  Imperatriz|  S
+2112|  21|  |  Balsas|  Balsas|  S
+2113|  21|  |  Sao Joao dos Patos|  S.Joao dos Patos|  S
+2114|  21|  |  Presidente Dutra|  Presidente Dutra|  S
+2115|  21|  |  Pedreiras|  Pedreiras|  S
+2116|  21|  |  Barra do Corda|  Barra do Corda|  S
+2117|  21|  |  Bacabal|  Bacabal|  S
+2118|  21|  |  Caxias|  Caxias|  S
+2200|  22|  |  Municipio ignorado - PI|  Municipio ignorado - PI|  S
+2201|  22|  |  Parnaiba|  Parnaiba|  S
+2202|  22|  |  Barras|  Barras|  S
+2203|  22|  |  Piripiri|  Piripiri|  S
+2204|  22|  |  Teresina|  Teresina|  S
+2205|  22|  |  Campo Maior|  Campo Maior|  S
+2206|  22|  |  Amarante|  Amarante|  S
+2207|  22|  |  Valenca|  Valenca|  S
+2208|  22|  |  Oeiras|  Oeiras|  S
+2209|  22|  |  Picos|  Picos|  S
+2210|  22|  |  Floriano|  Floriano|  S
+2211|  22|  |  Sao Joao do Piaui|  Sao Joao do Piaui|  S
+2212|  22|  |  Sao Raimundo Nonato|  Sao Raimundo Nonato|  S
+2213|  22|  |  Bom Jesus|  Bom Jesus|  S
+2214|  22|  |  Corrente|  Corrente|  S
+2215|  22|  |  Urucui|  Urucui|  S
+2216|  22|  |  Fronteiras|  Fronteiras|  S
+2217|  22|  |  Paulistana|  Paulistana|  S
+2300|  23|  |  Municipio ignorado - CE|  Municipio ignorado - CE|  S
+2301|  23|  |  Fortaleza|  Fortaleza|  S
+2302|  23|  |  Caucaia|  Caucaia|  S
+2303|  23|  |  Maracanau|  Maracanau|  S
+2304|  23|  |  Baturite|  Baturite|  S
+2305|  23|  |  Caninde|  Caninde|  S
+2306|  23|  |  Itapipoca|  Itapipoca|  S
+2307|  23|  |  Aracati|  Aracati|  S
+2308|  23|  |  Quixada|  Quixada|  S
+2309|  23|  |  Russas|  Russas|  S
+2310|  23|  |  Limoeiro do Norte|  Limoeiro do Norte|  S
+2311|  23|  |  Sobral|  Sobral|  S
+2312|  23|  |  Acarau|  Acarau|  S
+2313|  23|  |  Tiangua|  Tiangua|  S
+2314|  23|  |  Taua|  Taua|  S
+2315|  23|  |  Crateus|  Crateus|  S
+2316|  23|  |  Camocim|  Camocim|  S
+2317|  23|  |  Ico|  Ico|  S
+2318|  23|  |  Iguatu|  Iguatu|  S
+2319|  23|  |  Brejo Santo|  Brejo Santo|  S
+2320|  23|  |  Crato|  Crato|  S
+2321|  23|  |  Juazeiro do Norte|  Juazeiro do Norte|  S
+2400|  24|  |  Municipio ignorado - RN|  Municipio ignorado - RN|  S
+2401|  24|  |  I ETAM|  I ETAM|  S
+2402|  24|  |  II ETAM|  II ETAM|  S
+2403|  24|  |  III ETAM|  III ETAM|  S
+2404|  24|  |  IV ETAM|  IV ETAM|  S
+2405|  24|  |  V ETAM|  V ETAM|  S
+2406|  24|  |  VI ETAM|  VI ETAM|  S
+2407|  24|  |  Grande Natal|  Grande Natal|  S
+2500|  25|  |  Municipio ignorado - PB|  Municipio ignorado - PB|  S
+2501|  25|  |  I Nucleo Regional de Saude|  I NRS|  S
+2502|  25|  |  II Nucleo Regional de Saude|  II NRS|  S
+2503|  25|  |  III Nucleo Regional de Saude|  III NRS|  S
+2504|  25|  |  IV Nucleo Regional de Saude|  IV NRS|  S
+2505|  25|  |  V Nucleo Regional de Saude|  V NRS|  S
+2506|  25|  |  VI Nucleo Regional de Saude|  VI NRS|  S
+2507|  25|  |  VII Nucleo Regional de Saude|  VII NRS|  S
+2508|  25|  |  VIII Nucleo Regional de Saude|  VIII NRS|  S
+2509|  25|  |  IX Nucleo Regional de Saude|  IX NRS|  S
+2510|  25|  |  X Nucleo Regional de Saude|  X NRS|  S
+2511|  25|  |  XI Nucleo Regional de Saude|  XI NRS|  S
+2512|  25|  |  XII Nucleo Regional de Saude|  XII NRS|  S
+2600|  26|  |  Municipio ignorado - PE|  Municipio ignorado - PE|  S
+2601|  26|  |  I DIRES - Recife|  Recife|  S
+2602|  26|  |  II DIRES - Limoeiro|  Limoeiro|  S
+2603|  26|  |  III DIRES - Palmares|  Palmares|  S
+2604|  26|  |  IV DIRES - Caruaru|  Caruaru|  S
+2605|  26|  |  V DIRES - Garanhuns|  Garanhuns|  S
+2606|  26|  |  VI DIRES - Arcoverde|  Arcoverde|  S
+2607|  26|  |  VII DIRES - Salgueiro|  Salgueiro|  S
+2608|  26|  |  VIII DIRES - Petrolina|  Petrolina|  S
+2609|  26|  |  IX DIRES - Ouricuri|  Ouricuri|  S
+2610|  26|  |  X DIRES - Afogados da Ingazeira|  Afogados da Ingazeira|  S
+2700|  27|  |  Municipio ignorado - AL|  Municipio ignorado - AL|  S
+2701|  27|  |  Regiao 01|  Regiao 01|  S
+2702|  27|  |  Regiao 02|  Regiao 02|  S
+2703|  27|  |  Regiao 03|  Regiao 03|  S
+2704|  27|  |  Regiao 04|  Regiao 04|  S
+2705|  27|  |  Regiao 05|  Regiao 05|  S
+2800|  28|  |  Municipio ignorado - SE|  Municipio ignorado - SE|  S
+2801|  28|  |  I Diretoria Regional de Saude|  I DRS|  S
+2802|  28|  |  II Diretoria Regional de Saude|  II DRS|  S
+2803|  28|  |  III Diretoria Regional de Saude|  III RS|  S
+2804|  28|  |  IV Diretoria Regional de Saude|  IV RS|  S
+2805|  28|  |  V Diretoria Regional de Saude|  V DRS|  S
+2806|  28|  |  VI Diretoria Regional de Saude|  VI DRS|  S
+2808|  28|  |  VIII Diretoria Regional de Saude|  VIII DRS|  S
+2900|  29|  |  Municipio ignorado - BA|  Municipio ignorado - BA|  S
+2901|  29|  |  Salvador|  Salvador|  S
+2902|  29|  |  Feira de Santana|  Feira de Santana|  S
+2903|  29|  |  Alagoinhas|  Alagoinhas|  S
+2904|  29|  |  Santo Antonio de Jesus|  Santo Antonio de Jesus|  S
+2905|  29|  |  Gandu|  Gandu|  S
+2906|  29|  |  Ilheus|  Ilheus|  S
+2907|  29|  |  Itabuna|  Itabuna|  S
+2908|  29|  |  Eunapolis|  Eunapolis|  S
+2909|  29|  |  Teixeira de Freitas|  Teixeira de Freitas|  S
+2910|  29|  |  Paulo Afonso|  Paulo Afonso|  S
+2911|  29|  |  Cicero Dantas|  Cicero Dantas|  S
+2912|  29|  |  Serrinha|  Serrinha|  S
+2913|  29|  |  Jequie|  Jequie|  S
+2914|  29|  |  Itapetinga|  Itapetinga|  S
+2915|  29|  |  Juazeiro|  Juazeiro|  S
+2916|  29|  |  Jacobina|  Jacobina|  S
+2917|  29|  |  Mundo Novo|  Mundo Novo|  S
+2918|  29|  |  Itaberaba|  Itaberaba|  S
+2919|  29|  |  Brumado|  Brumado|  S
+2920|  29|  |  Vitoria da Conquista|  Vitoria da Conquista|  S
+2921|  29|  |  Irece|  Irece|  S
+2922|  29|  |  Ibotirama|  Ibotirama|  S
+2923|  29|  |  Boquira|  Boquira|  S
+2924|  29|  |  Caetite|  Caetite|  S
+2925|  29|  |  Barreiras|  Barreiras|  S
+2926|  29|  |  Santa Maria da Vitoria|  Santa Maria da Vitoria|  S
+2927|  29|  |  Seabra|  Seabra|  S
+2928|  29|  |  Senhor do Bonfim|  Senhor do Bonfim|  S
+2929|  29|  |  Amargosa|  Amargosa|  S
+2930|  29|  |  Guanambi|  Guanambi|  S
+3100|  31|  |  Municipio ignorado - MG|  Municipio ignorado - MG|  S
+3101|  31|  |  Belo Horizonte|  Belo Horizonte|  S
+3103|  31|  |  Barbacena|  Barbacena|  S
+3104|  31|  |  Diamantina|  Diamantina|  S
+3105|  31|  |  Juiz de Fora|  Juiz de Fora|  S
+3106|  31|  |  Montes Claros|  Montes Claros|  S
+3107|  31|  |  Patos de Minas|  Patos de Minas|  S
+3108|  31|  |  Ponte Nova|  Ponte Nova|  S
+3109|  31|  |  Itabira|  Itabira|  S
+3110|  31|  |  Pouso Alegre|  Pouso Alegre|  S
+3111|  31|  |  Varginha|  Varginha|  S
+3112|  31|  |  Uberlandia|  Uberlandia|  S
+3113|  31|  |  Uberaba|  Uberaba|  S
+3114|  31|  |  Sete Lagoas|  Sete Lagoas|  S
+3115|  31|  |  Divinopolis|  Divinopolis|  S
+3116|  31|  |  Governador Valadares|  Governador Valadares|  S
+3117|  31|  |  Teofilo Otoni|  Teofilo Otoni|  S
+3118|  31|  |  Uba|  Uba|  S
+3119|  31|  |  Pedra Azul|  Pedra Azul|  S
+3120|  31|  |  Sao Joao Del Rei|  Sao Joao Del Rei|  S
+3121|  31|  |  Alfenas|  Alfenas|  S
+3122|  31|  |  Passos|  Passos|  S
+3123|  31|  |  Coronel Fabriciano|  Coronel Fabriciano|  S
+3124|  31|  |  Manhumirim|  Manhumirim|  S
+3125|  31|  |  Ituiutaba|  Ituiutaba|  S
+3126|  31|  |  Unai|  Unai|  S
+3127|  31|  |  Leopoldina|  Leopoldina|  S
+3200|  32|  |  Municipio ignorado - ES|  Municipio ignorado - ES|  S
+3201|  32|  |  Metropolitana|  Metropolitana|  S
+3202|  32|  |  Metropolitana Expandida Norte|  Metrop expand Norte|  S
+3203|  32|  |  Metropolitana Expandida Sul|  Metrop expand Sul|  S
+3204|  32|  |  Metropolitana Sudoeste Serrana|  Metrop Sudoeste Serrana|  S
+3205|  32|  |  Metropolitana Central Serrana|  Metrop Central Serrana|  S
+3206|  32|  |  Litoral Norte|  Litoral Norte|  S
+3207|  32|  |  Extremo Norte|  Extremo Norte|  S
+3208|  32|  |  Polo Colatina|  Polo Colatina|  S
+3209|  32|  |  Noroeste I|  Noroeste I|  S
+3210|  32|  |  Noroeste II|  Noroeste II|  S
+3211|  32|  |  Polo Caparao|  Polo Caparao|  S
+3212|  32|  |  Polo Cachoeiro|  Polo Cachoeiro|  S
+3300|  33|  |  Municipio ignorado - RJ|  Municipio ignorado - RJ|  S
+3301|  33|  |  Baia da Ilha Grande|  Baia da Ilha Grande|  S
+3302|  33|  |  Baixada Litoranea|  Baixada Litoranea|  S
+3303|  33|  |  Centro-Sul Fluminense|  Centro-Sul Fluminense|  S
+3304|  33|  |  Medio Paraiba|  Medio Paraiba|  S
+3305|  33|  |  Metropolitana|  Metropolitana|  S
+3306|  33|  |  Noroeste Fluminense|  Noroeste Fluminense|  S
+3307|  33|  |  Norte Fluminense|  Norte Fluminense|  S
+3308|  33|  |  Serrana|  Serrana|  S
+3500|  35|  |  Municipio ignorado - SP|  Municipio ignorado - SP|  S
+3501|  35|  |  Sao Paulo|  S.Paulo|  S
+3502|  35|  |  Santo Andre|  Santo Andre|  S
+3503|  35|  |  Moji das Cruzes|  Moji das Cruzes|  S
+3504|  35|  |  Franco da Rocha|  Franco da Rocha|  S
+3505|  35|  |  Osasco|  Osasco|  S
+3506|  35|  |  Aracatuba|  Aracatuba|  S
+3507|  35|  |  Araraquara|  Araraquara|  S
+3508|  35|  |  Assis|  Assis|  S
+3509|  35|  |  Barretos|  Barretos|  S
+3510|  35|  |  Bauru|  Bauru|  S
+3511|  35|  |  Botucatu|  Botucatu|  S
+3512|  35|  |  Campinas|  Campinas|  S
+3513|  35|  |  Franca|  Franca|  S
+3514|  35|  |  Marilia|  Marilia|  S
+3515|  35|  |  Piracicaba|  Piracicaba|  S
+3516|  35|  |  Presidente Prudente|  Presidente Prudente|  S
+3517|  35|  |  Registro|  Registro|  S
+3518|  35|  |  Ribeirao Preto|  Ribeirao Preto|  S
+3519|  35|  |  Santos|  Santos|  S
+3520|  35|  |  Sao Joao da Boa Vista|  S.Joao da Boa Vista|  S
+3521|  35|  |  Sao Jose dos Campos|  S.Jose dos Campos|  S
+3522|  35|  |  Sao Jose do Rio Preto|  S.Jose do Rio Preto|  S
+3523|  35|  |  Sorocaba|  Sorocaba|  S
+3524|  35|  |  Taubate|  Taubate|  S
+4100|  41|  |  Municipio ignorado - PR|  Municipio ignorado - PR|  S
+4101|  41|  |  Paranagua|  Paranagua|  S
+4102|  41|  |  Metropolitana|  Metropolitana|  S
+4103|  41|  |  Ponta Grossa|  Ponta Grossa|  S
+4104|  41|  |  Irati|  Irati|  S
+4105|  41|  |  Guarapuava|  Guarapuava|  S
+4106|  41|  |  Uniao da Vitoria|  Uniao da Vitoria|  S
+4107|  41|  |  Pato Branco|  Pato Branco|  S
+4108|  41|  |  Francisco Beltrao|  Francisco Beltrao|  S
+4109|  41|  |  Foz do Iguacu|  Foz do Iguacu|  S
+4110|  41|  |  Cascavel|  Cascavel|  S
+4111|  41|  |  Campo Mourao|  Campo Mourao|  S
+4112|  41|  |  Umuarama|  Umuarama|  S
+4113|  41|  |  Cianorte|  Cianorte|  S
+4114|  41|  |  Paranavai|  Paranavai|  S
+4115|  41|  |  Maringa|  Maringa|  S
+4116|  41|  |  Apucarana|  Apucarana|  S
+4117|  41|  |  Londrina|  Londrina|  S
+4118|  41|  |  Cornelio Procopio|  Cornelio Procopio|  S
+4119|  41|  |  Jacarezinho|  Jacarezinho|  S
+4120|  41|  |  Toledo|  Toledo|  S
+4121|  41|  |  Telemaco Borba|  Telemaco Borba|  S
+4122|  41|  |  Ivaipora|  Ivaipora|  S
+4200|  42|  |  Municipio ignorado - SC|  Municipio ignorado - SC|  S
+4201|  42|  |  Xanxere|  Xanxere|  S
+4202|  42|  |  Videira|  Videira|  S
+4203|  42|  |  Concordia|  Concordia|  S
+4204|  42|  |  Rio do Sul|  Rio do Sul|  S
+4205|  42|  |  Sao Miguel do Oeste|  Sao Miguel do Oeste|  S
+4206|  42|  |  Ararangua|  Ararangua|  S
+4207|  42|  |  Itajai|  Itajai|  S
+4208|  42|  |  Joacaba|  Joacaba|  S
+4209|  42|  |  Blumenau|  Blumenau|  S
+4210|  42|  |  Chapeco|  Chapeco|  S
+4211|  42|  |  Mafra|  Mafra|  S
+4212|  42|  |  Criciuma|  Criciuma|  S
+4213|  42|  |  Joinville|  Joinville|  S
+4214|  42|  |  Tubarao|  Tubarao|  S
+4215|  42|  |  Lages|  Lages|  S
+4216|  42|  |  Canoinhas|  Canoinhas|  S
+4217|  42|  |  Jaragua do Sul|  Jaragua do Sul|  S
+4218|  42|  |  Florianopolis|  Florianopolis|  S
+4300|  43|  |  Municipio ignorado - RS|  Municipio ignorado - RS|  S
+4301|  43|  |  DRS 01 Porto Alegre|  Porto Alegre-01|  S
+4302|  43|  |  DRS 02 Porto Alegre|  Porto Alegre-02|  S
+4303|  43|  |  DRS 03 Pelotas|  Pelotas|  S
+4304|  43|  |  DRS 04 Santa Maria|  Santa Maria|  S
+4305|  43|  |  DRS 05 Caxias do Sul|  Caxias do Sul|  S
+4306|  43|  |  DRS 06 Passo Fundo|  Passo Fundo|  S
+4307|  43|  |  DRS 07 Bage|  Bage|  S
+4308|  43|  |  DRS 08 Cachoeira do Sul|  Cachoeira do Sul|  S
+4309|  43|  |  DRS 09 Cruz Alta|  Cruz Alta|  S
+4310|  43|  |  DRS 10 Alegrete|  Alegrete|  S
+4311|  43|  |  DRS 11 Erechim|  Erechim|  S
+4312|  43|  |  DRS 12 Santo Angelo|  Santo Angelo|  S
+4313|  43|  |  DRS 13 S.Cruz do Sul|  S.Cruz do Sul|  S
+4314|  43|  |  DRS 14 Santa Rosa|  Santa Rosa|  S
+4315|  43|  |  DRS 15 Palmeira das Missoes|  Palmeira das Missoes|  S
+4316|  43|  |  DRS 16 Lajeado|  Lajeado|  S
+4317|  43|  |  DRS 17 Ijui|  Ijui|  S
+4318|  43|  |  DRS 18 Osorio|  Osorio|  S
+4319|  43|  |  DRS 19 Frederico Westphalen|  Frederico Westphalen|  S
+5000|  50|  |  Municipio ignorado - MS|  Municipio ignorado - MS|  S
+5001|  50|  |  NCT de Aquidauana|  Aquidauana|  S
+5002|  50|  |  NCT de Coxim|  Coxim|  S
+5003|  50|  |  NCT de Dourados|  Dourados|  S
+5004|  50|  |  NCT de Fatima do Sul|  Fatima do Sul|  S
+5005|  50|  |  NCT de Jardim|  Jardim|  S
+5006|  50|  |  NCT de Navirai|  Navirai|  S
+5007|  50|  |  NCT de Nova Andradina|  Nova Andradina|  S
+5008|  50|  |  NCT de Paranaiba|  Paranaiba|  S
+5009|  50|  |  NCT de Ponta Pora|  Ponta Pora|  S
+5010|  50|  |  NCT de Tres Lagoas|  Tres Lagoas|  S
+5011|  50|  |  NCT de Campo Grande|  Campo Grande|  S
+5012|  50|  |  NCT de Corumba|  Corumba|  S
+5100|  51|  |  Municipio ignorado - MT|  Municipio ignorado - MT|  S
+5101|  51|  |  Cuiaba|  Cuiaba|  S
+5102|  51|  |  Caceres|  Caceres|  S
+5103|  51|  |  Agua Boa|  Agua Boa|  S
+5104|  51|  |  Alta Floresta|  Alta Floresta|  S
+5105|  51|  |  Tangara da Serra|  Tangara da Serra|  S
+5106|  51|  |  Porto Alegre do Norte|  Porto Alegre do Norte|  S
+5107|  51|  |  Rondonopolis|  Rondonopolis|  S
+5108|  51|  |  Barra do Garcas|  Barra do Garcas|  S
+5109|  51|  |  Juina|  Juina|  S
+5110|  51|  |  Juara|  Juara|  S
+5111|  51|  |  Peixoto de Azevedo|  Peixoto de Azevedo|  S
+5113|  51|  |  Diamantino|  Diamantino|  S
+5114|  51|  |  Sinop|  Sinop|  S
+5200|  52|  |  Municipio ignorado - GO|  Municipio ignorado - GO|  S
+5201|  52|  |  Macro Goiania|  Macro Goiania|  S
+5202|  52|  |  Centro Sul|  Centro Sul|  S
+5203|  52|  |  Entorno Sul|  Entorno Sul|  S
+5204|  52|  |  Entorno Norte|  Entorno Norte|  S
+5205|  52|  |  Nordeste|  Nordeste|  S
+5206|  52|  |  Norte|  Norte|  S
+5207|  52|  |  Serra da Mesa|  Sera da Mesa|  S
+5208|  52|  |  Sao Patricio|  Sao Patricio|  S
+5209|  52|  |  Pirineus|  Pirineus|  S
+5210|  52|  |  Rio Vermelho|  Rio Vermelho|  S
+5211|  52|  |  Oeste I|  Oeste I|  S
+5212|  52|  |  Oeste II|  Oeste II|  S
+5213|  52|  |  Sudoeste I|  Sudoeste I|  S
+5214|  52|  |  Sudoeste II|  Sudoeste II|  S
+5215|  52|  |  Sul|  Sul|  S
+5216|  52|  |  Estrada de Ferro|  Estrada de Ferro|  S
+5298|  52|  |  Municipios transferidos para Tocantins|  Transf p Tocantins|  S
+5301|  53|  |  Distrito Federal|  Distrito Federal|  S
+1514|  15|  1506|  BAIXO AMAZONAS|  Baixo Amazonas|  S
