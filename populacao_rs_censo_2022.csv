@@ -1,0 +1,498 @@
+UF;COD. UF;COD. MUNIC;NOME DO MUNICÍPIO;POPULAÇÃO
+RS;43;00034;Aceguá;4156
+RS;43;00059;Água Santa;4345
+RS;43;00109;Agudo;16740
+RS;43;00208;Ajuricaba;6707
+RS;43;00307;Alecrim;6169
+RS;43;00406;Alegrete;71945
+RS;43;00455;Alegria;3652
+RS;43;00471;Almirante Tamandaré do Sul;1967
+RS;43;00505;Alpestre;7065
+RS;43;00554;Alto Alegre;1800
+RS;43;00570;Alto Feliz;3061
+RS;43;00604;Alvorada;185921
+RS;43;00638;Amaral Ferrador;5268
+RS;43;00646;Ametista do Sul;7529
+RS;43;00661;André da Rocha;1129
+RS;43;00703;Anta Gorda;5962
+RS;43;00802;Antônio Prado;14292
+RS;43;00851;Arambaré;4109
+RS;43;00877;Araricá;8293
+RS;43;00901;Aratiba;6495
+RS;43;01008;Arroio do Meio;21961
+RS;43;01057;Arroio do Sal;11082
+RS;43;01073;Arroio do Padre;2638
+RS;43;01107;Arroio dos Ratos;14555
+RS;43;01206;Arroio do Tigre;12022
+RS;43;01305;Arroio Grande;17440
+RS;43;01404;Arvorezinha;10328
+RS;43;01503;Augusto Pestana;7146
+RS;43;01552;Áurea;3401
+RS;43;01602;Bagé;113173
+RS;43;01636;Balneário Pinhal;14769
+RS;43;01651;Barão;6476
+RS;43;01701;Barão de Cotegipe;7150
+RS;43;01750;Barão do Triunfo;5893
+RS;43;01800;Barracão;5115
+RS;43;01859;Barra do Guarita;3161
+RS;43;01875;Barra do Quaraí;4053
+RS;43;01909;Barra do Ribeiro;11925
+RS;43;01925;Barra do Rio Azul;1695
+RS;43;01958;Barra Funda;2497
+RS;43;02006;Barros Cassal;9299
+RS;43;02055;Benjamin Constant do Sul;1981
+RS;43;02105;Bento Gonçalves;129430
+RS;43;02154;Boa Vista das Missões;1899
+RS;43;02204;Boa Vista do Buricá;7030
+RS;43;02220;Boa Vista do Cadeado;2222
+RS;43;02238;Boa Vista do Incra;2267
+RS;43;02253;Boa Vista do Sul;2746
+RS;43;02303;Bom Jesus;10725
+RS;43;02352;Bom Princípio;15619
+RS;43;02378;Bom Progresso;2106
+RS;43;02402;Bom Retiro do Sul;12245
+RS;43;02451;Boqueirão do Leão;6231
+RS;43;02501;Bossoroca;5886
+RS;43;02584;Bozano;2135
+RS;43;02600;Braga;3264
+RS;43;02659;Brochier;5895
+RS;43;02709;Butiá;18711
+RS;43;02808;Caçapava do Sul;32447
+RS;43;02907;Cacequi;11166
+RS;43;03004;Cachoeira do Sul;79778
+RS;43;03103;Cachoeirinha;134545
+RS;43;03202;Cacique Doble;4602
+RS;43;03301;Caibaté;4707
+RS;43;03400;Caiçara;4810
+RS;43;03509;Camaquã;61598
+RS;43;03558;Camargo;3204
+RS;43;03608;Cambará do Sul;6263
+RS;43;03673;Campestre da Serra;3243
+RS;43;03707;Campina das Missões;5882
+RS;43;03806;Campinas do Sul;5266
+RS;43;03905;Campo Bom;65380
+RS;43;04002;Campo Novo;4992
+RS;43;04101;Campos Borges;3606
+RS;43;04200;Candelária;28249
+RS;43;04309;Cândido Godói;6291
+RS;43;04358;Candiota;10418
+RS;43;04408;Canela;53348
+RS;43;04507;Canguçu;48922
+RS;43;04606;Canoas;339133
+RS;43;04614;Canudos do Vale;1660
+RS;43;04622;Capão Bonito do Sul;1724
+RS;43;04630;Capão da Canoa;62040
+RS;43;04655;Capão do Cipó;3122
+RS;43;04663;Capão do Leão;27071
+RS;43;04671;Capivari do Sul;3986
+RS;43;04689;Capela de Santana;10970
+RS;43;04697;Capitão;2888
+RS;43;04705;Carazinho;60983
+RS;43;04713;Caraá;8957
+RS;43;04804;Carlos Barbosa;29834
+RS;43;04853;Carlos Gomes;1355
+RS;43;04903;Casca;9464
+RS;43;04952;Caseiros;3000
+RS;43;05009;Catuípe;8679
+RS;43;05108;Caxias do Sul;503068
+RS;43;05116;Centenário;2725
+RS;43;05124;Cerrito;5847
+RS;43;05132;Cerro Branco;3803
+RS;43;05157;Cerro Grande;2318
+RS;43;05173;Cerro Grande do Sul;9054
+RS;43;05207;Cerro Largo;13710
+RS;43;05306;Chapada;9475
+RS;43;05355;Charqueadas;34954
+RS;43;05371;Charrua;3345
+RS;43;05405;Chiapetta;3901
+RS;43;05439;Chuí;6438
+RS;43;05447;Chuvisca;4583
+RS;43;05454;Cidreira;16742
+RS;43;05504;Ciríaco;4142
+RS;43;05587;Colinas;2415
+RS;43;05603;Colorado;3258
+RS;43;05702;Condor;6406
+RS;43;05801;Constantina;10383
+RS;43;05835;Coqueiro Baixo;1284
+RS;43;05850;Coqueiros do Sul;2204
+RS;43;05871;Coronel Barros;2819
+RS;43;05900;Coronel Bicaco;6082
+RS;43;05934;Coronel Pilar;1592
+RS;43;05959;Cotiporã;3850
+RS;43;05975;Coxilha;3172
+RS;43;06007;Crissiumal;12852
+RS;43;06056;Cristal;7352
+RS;43;06072;Cristal do Sul;2694
+RS;43;06106;Cruz Alta;59057
+RS;43;06130;Cruzaltense;1635
+RS;43;06205;Cruzeiro do Sul;11618
+RS;43;06304;David Canabarro;4324
+RS;43;06320;Derrubadas;2749
+RS;43;06353;Dezesseis de Novembro;2506
+RS;43;06379;Dilermando de Aguiar;2806
+RS;43;06403;Dois Irmãos;30551
+RS;43;06429;Dois Irmãos das Missões;2063
+RS;43;06452;Dois Lajeados;2965
+RS;43;06502;Dom Feliciano;13059
+RS;43;06551;Dom Pedro de Alcântara;2499
+RS;43;06601;Dom Pedrito;36559
+RS;43;06700;Dona Francisca;3079
+RS;43;06734;Doutor Maurício Cardoso;4470
+RS;43;06759;Doutor Ricardo;1866
+RS;43;06767;Eldorado do Sul;39330
+RS;43;06809;Encantado;22391
+RS;43;06908;Encruzilhada do Sul;22276
+RS;43;06924;Engenho Velho;1291
+RS;43;06932;Entre-Ijuís;9157
+RS;43;06957;Entre Rios do Sul;2681
+RS;43;06973;Erebango;3037
+RS;43;07005;Erechim;105428
+RS;43;07054;Ernestina;3021
+RS;43;07104;Herval;6380
+RS;43;07203;Erval Grande;4908
+RS;43;07302;Erval Seco;6748
+RS;43;07401;Esmeralda;3175
+RS;43;07450;Esperança do Sul;3225
+RS;43;07500;Espumoso;15118
+RS;43;07559;Estação;5517
+RS;43;07609;Estância Velha;48682
+RS;43;07708;Esteio;74653
+RS;43;07807;Estrela;31909
+RS;43;07815;Estrela Velha;3066
+RS;43;07831;Eugênio de Castro;2633
+RS;43;07864;Fagundes Varela;2566
+RS;43;07906;Farroupilha;74879
+RS;43;08003;Faxinal do Soturno;6686
+RS;43;08052;Faxinalzinho;2521
+RS;43;08078;Fazenda Vilanova;4298
+RS;43;08102;Feliz;15174
+RS;43;08201;Flores da Cunha;33430
+RS;43;08250;Floriano Peixoto;2038
+RS;43;08300;Fontoura Xavier;9573
+RS;43;08409;Formigueiro;6439
+RS;43;08433;Forquetinha;2521
+RS;43;08458;Fortaleza dos Valos;4455
+RS;43;08508;Frederico Westphalen;32284
+RS;43;08607;Garibaldi;35219
+RS;43;08656;Garruchos;2615
+RS;43;08706;Gaurama;5676
+RS;43;08805;General Câmara;7346
+RS;43;08854;Gentil;1745
+RS;43;08904;Getúlio Vargas;18111
+RS;43;09001;Giruá;15971
+RS;43;09050;Glorinha;7653
+RS;43;09100;Gramado;44643
+RS;43;09126;Gramado dos Loureiros;2003
+RS;43;09159;Gramado Xavier;3304
+RS;43;09209;Gravataí;279205
+RS;43;09258;Guabiju;1396
+RS;43;09308;Guaíba;91304
+RS;43;09407;Guaporé;24958
+RS;43;09506;Guarani das Missões;7554
+RS;43;09555;Harmonia;5660
+RS;43;09571;Herveiras;2559
+RS;43;09605;Horizontina;18852
+RS;43;09654;Hulha Negra;5851
+RS;43;09704;Humaitá;4690
+RS;43;09753;Ibarama;3722
+RS;43;09803;Ibiaçá;4560
+RS;43;09902;Ibiraiaras;6764
+RS;43;09951;Ibirapuitã;4159
+RS;43;10009;Ibirubá;21733
+RS;43;10108;Igrejinha;33173
+RS;43;10207;Ijuí;85135
+RS;43;10306;Ilópolis;4094
+RS;43;10330;Imbé;27053
+RS;43;10363;Imigrante;3082
+RS;43;10405;Independência;6519
+RS;43;10413;Inhacorá;2011
+RS;43;10439;Ipê;6554
+RS;43;10462;Ipiranga do Sul;1714
+RS;43;10504;Iraí;7489
+RS;43;10538;Itaara;5747
+RS;43;10553;Itacurubi;2995
+RS;43;10579;Itapuca;1937
+RS;43;10603;Itaqui;35408
+RS;43;10652;Itati;2941
+RS;43;10702;Itatiba do Sul;3206
+RS;43;10751;Ivorá;2012
+RS;43;10801;Ivoti;22911
+RS;43;10850;Jaboticaba;3754
+RS;43;10876;Jacuizinho;2028
+RS;43;10900;Jacutinga;3198
+RS;43;11007;Jaguarão;26583
+RS;43;11106;Jaguari;10527
+RS;43;11122;Jaquirana;3692
+RS;43;11130;Jari;3349
+RS;43;11155;Jóia;7123
+RS;43;11205;Júlio de Castilhos;18121
+RS;43;11239;Lagoa Bonita do Sul;2253
+RS;43;11254;Lagoão;5343
+RS;43;11270;Lagoa dos Três Cantos;1726
+RS;43;11304;Lagoa Vermelha;27598
+RS;43;11403;Lajeado;97432
+RS;43;11429;Lajeado do Bugre;2569
+RS;43;11502;Lavras do Sul;7458
+RS;43;11601;Liberato Salzano;4664
+RS;43;11627;Lindolfo Collor;6156
+RS;43;11643;Linha Nova;1763
+RS;43;11700;Machadinho;5729
+RS;43;11718;Maçambará;4427
+RS;43;11734;Mampituba;2954
+RS;43;11759;Manoel Viana;6732
+RS;43;11775;Maquiné;8222
+RS;43;11791;Maratá;2515
+RS;43;11809;Marau;46643
+RS;43;11908;Marcelino Ramos;4314
+RS;43;11981;Mariana Pimentel;3889
+RS;43;12005;Mariano Moro;1856
+RS;43;12054;Marques de Souza;3928
+RS;43;12104;Mata;4697
+RS;43;12138;Mato Castelhano;2552
+RS;43;12153;Mato Leitão;4848
+RS;43;12179;Mato Queimado;1793
+RS;43;12203;Maximiliano de Almeida;4763
+RS;43;12252;Minas do Leão;7470
+RS;43;12302;Miraguaí;4388
+RS;43;12351;Montauri;1495
+RS;43;12377;Monte Alegre dos Campos;3610
+RS;43;12385;Monte Belo do Sul;2584
+RS;43;12401;Montenegro;66878
+RS;43;12427;Mormaço;2748
+RS;43;12443;Morrinhos do Sul;3091
+RS;43;12450;Morro Redondo;5568
+RS;43;12476;Morro Reuter;6124
+RS;43;12500;Mostardas;13035
+RS;43;12609;Muçum;4492
+RS;43;12617;Muitos Capões;2811
+RS;43;12625;Muliterno;1718
+RS;43;12658;Não-Me-Toque;17821
+RS;43;12674;Nicolau Vergueiro;1935
+RS;43;12708;Nonoai;13466
+RS;43;12757;Nova Alvorada;3169
+RS;43;12807;Nova Araçá;4968
+RS;43;12906;Nova Bassano;9582
+RS;43;12955;Nova Boa Vista;2040
+RS;43;13003;Nova Bréscia;3037
+RS;43;13011;Nova Candelária;3056
+RS;43;13037;Nova Esperança do Sul;4858
+RS;43;13060;Nova Hartz;19799
+RS;43;13086;Nova Pádua;2334
+RS;43;13102;Nova Palma;5328
+RS;43;13201;Nova Petrópolis;28579
+RS;43;13300;Nova Prata;25656
+RS;43;13334;Nova Ramada;2157
+RS;43;13359;Nova Roma do Sul;3468
+RS;43;13375;Nova Santa Rita;28290
+RS;43;13391;Novo Cabrais;3550
+RS;43;13409;Novo Hamburgo;241306
+RS;43;13425;Novo Machado;3198
+RS;43;13441;Novo Tiradentes;2115
+RS;43;13466;Novo Xingu;1646
+RS;43;13490;Novo Barreiro;4233
+RS;43;13508;Osório;50395
+RS;43;13607;Paim Filho;3979
+RS;43;13656;Palmares do Sul;12969
+RS;43;13706;Palmeira das Missões;32873
+RS;43;13805;Palmitinho;7830
+RS;43;13904;Panambi;43320
+RS;43;13953;Pantano Grande;10255
+RS;43;14001;Paraí;7205
+RS;43;14027;Paraíso do Sul;6472
+RS;43;14035;Pareci Novo;4072
+RS;43;14050;Parobé;54095
+RS;43;14068;Passa Sete;3943
+RS;43;14076;Passo do Sobrado;6006
+RS;43;14100;Passo Fundo;217240
+RS;43;14134;Paulo Bento;2144
+RS;43;14159;Paverama;7933
+RS;43;14175;Pedras Altas;2213
+RS;43;14209;Pedro Osório;7652
+RS;43;14308;Pejuçara;3733
+RS;43;14407;Pelotas;324026
+RS;43;14423;Picada Café;5732
+RS;43;14456;Pinhal;2895
+RS;43;14464;Pinhal da Serra;2243
+RS;43;14472;Pinhal Grande;4049
+RS;43;14498;Pinheirinho do Vale;4539
+RS;43;14506;Pinheiro Machado;11380
+RS;43;14548;Pinto Bandeira;2712
+RS;43;14555;Pirapó;2250
+RS;43;14605;Piratini;17434
+RS;43;14704;Planalto;10240
+RS;43;14753;Poço das Antas;2152
+RS;43;14779;Pontão;3278
+RS;43;14787;Ponte Preta;1572
+RS;43;14803;Portão;36410
+RS;43;14902;Porto Alegre;1404269
+RS;43;15008;Porto Lucena;4364
+RS;43;15057;Porto Mauá;2143
+RS;43;15073;Porto Vera Cruz;1560
+RS;43;15107;Porto Xavier;9821
+RS;43;15131;Pouso Novo;1752
+RS;43;15149;Presidente Lucena;3077
+RS;43;15156;Progresso;5325
+RS;43;15172;Protásio Alves;2025
+RS;43;15206;Putinga;3710
+RS;43;15305;Quaraí;23475
+RS;43;15313;Quatro Irmãos;1552
+RS;43;15321;Quevedos;2502
+RS;43;15354;Quinze de Novembro;3910
+RS;43;15404;Redentora;9244
+RS;43;15453;Relvado;1895
+RS;43;15503;Restinga Sêca;15129
+RS;43;15552;Rio dos Índios;3374
+RS;43;15602;Rio Grande;191719
+RS;43;15701;Rio Pardo;34447
+RS;43;15750;Riozinho;4453
+RS;43;15800;Roca Sales;10397
+RS;43;15909;Rodeio Bonito;6644
+RS;43;15958;Rolador;2277
+RS;43;16006;Rolante;21288
+RS;43;16105;Ronda Alta;9750
+RS;43;16204;Rondinha;4989
+RS;43;16303;Roque Gonzales;6579
+RS;43;16402;Rosário do Sul;36343
+RS;43;16428;Sagrada Família;2466
+RS;43;16436;Saldanha Marinho;2581
+RS;43;16451;Salto do Jacuí;10200
+RS;43;16477;Salvador das Missões;2878
+RS;43;16501;Salvador do Sul;7411
+RS;43;16600;Sananduva;17130
+RS;43;16709;Santa Bárbara do Sul;8083
+RS;43;16733;Santa Cecília do Sul;1676
+RS;43;16758;Santa Clara do Sul;6845
+RS;43;16808;Santa Cruz do Sul;133136
+RS;43;16907;Santa Maria;296081
+RS;43;16956;Santa Maria do Herval;6541
+RS;43;16972;Santa Margarida do Sul;2593
+RS;43;17004;Santana da Boa Vista;7120
+RS;43;17103;Sant'Ana do Livramento;83764
+RS;43;17202;Santa Rosa;77519
+RS;43;17251;Santa Tereza;1668
+RS;43;17301;Santa Vitória do Palmar;30953
+RS;43;17400;Santiago;48959
+RS;43;17509;Santo Ângelo;76768
+RS;43;17558;Santo Antônio do Palma;2091
+RS;43;17608;Santo Antônio da Patrulha;42904
+RS;43;17707;Santo Antônio das Missões;10292
+RS;43;17756;Santo Antônio do Planalto;2097
+RS;43;17806;Santo Augusto;13641
+RS;43;17905;Santo Cristo;15325
+RS;43;17954;Santo Expedito do Sul;2348
+RS;43;18002;São Borja;58757
+RS;43;18051;São Domingos do Sul;2755
+RS;43;18101;São Francisco de Assis;17634
+RS;43;18200;São Francisco de Paula;23682
+RS;43;18309;São Gabriel;58263
+RS;43;18408;São Jerônimo;20909
+RS;43;18424;São João da Urtiga;4433
+RS;43;18432;São João do Polêsine;2549
+RS;43;18440;São Jorge;2912
+RS;43;18457;São José das Missões;2345
+RS;43;18465;São José do Herval;1883
+RS;43;18481;São José do Hortêncio;4667
+RS;43;18499;São José do Inhacorá;2596
+RS;43;18507;São José do Norte;25491
+RS;43;18606;São José do Ouro;6847
+RS;43;18614;São José do Sul;2676
+RS;43;18622;São José dos Ausentes;3128
+RS;43;18705;São Leopoldo;216964
+RS;43;18804;São Lourenço do Sul;41756
+RS;43;18903;São Luiz Gonzaga;34690
+RS;43;19000;São Marcos;21027
+RS;43;19109;São Martinho;5479
+RS;43;19125;São Martinho da Serra;2919
+RS;43;19158;São Miguel das Missões;6986
+RS;43;19208;São Nicolau;5114
+RS;43;19307;São Paulo das Missões;5837
+RS;43;19356;São Pedro da Serra;3818
+RS;43;19364;São Pedro das Missões;1753
+RS;43;19372;São Pedro do Butiá;3069
+RS;43;19406;São Pedro do Sul;15535
+RS;43;19505;São Sebastião do Caí;26300
+RS;43;19604;São Sepé;21189
+RS;43;19703;São Valentim;3262
+RS;43;19711;São Valentim do Sul;2029
+RS;43;19737;São Valério do Sul;2547
+RS;43;19752;São Vendelino;2259
+RS;43;19802;São Vicente do Sul;8154
+RS;43;19901;Sapiranga;75613
+RS;43;20008;Sapucaia do Sul;130554
+RS;43;20107;Sarandi;22693
+RS;43;20206;Seberi;11932
+RS;43;20230;Sede Nova;2712
+RS;43;20263;Segredo;6046
+RS;43;20305;Selbach;5108
+RS;43;20321;Senador Salgado Filho;2671
+RS;43;20354;Sentinela do Sul;5221
+RS;43;20404;Serafina Corrêa;16839
+RS;43;20453;Sério;1941
+RS;43;20503;Sertão;6512
+RS;43;20552;Sertão Santana;6062
+RS;43;20578;Sete de Setembro;1824
+RS;43;20602;Severiano de Almeida;3827
+RS;43;20651;Silveira Martins;2070
+RS;43;20677;Sinimbu;8578
+RS;43;20701;Sobradinho;14209
+RS;43;20800;Soledade;30060
+RS;43;20859;Tabaí;4552
+RS;43;20909;Tapejara;24539
+RS;43;21006;Tapera;10570
+RS;43;21105;Tapes;14547
+RS;43;21204;Taquara;53164
+RS;43;21303;Taquari;25004
+RS;43;21329;Taquaruçu do Sul;3087
+RS;43;21352;Tavares;5554
+RS;43;21402;Tenente Portela;14494
+RS;43;21436;Terra de Areia;11122
+RS;43;21451;Teutônia;32776
+RS;43;21469;Tio Hugo;3422
+RS;43;21477;Tiradentes do Sul;5132
+RS;43;21493;Toropi;2546
+RS;43;21501;Torres;41709
+RS;43;21600;Tramandaí;51872
+RS;43;21626;Travesseiro;2123
+RS;43;21634;Três Arroios;2589
+RS;43;21667;Três Cachoeiras;11551
+RS;43;21709;Três Coroas;25344
+RS;43;21808;Três de Maio;25006
+RS;43;21832;Três Forquilhas;3139
+RS;43;21857;Três Palmeiras;4707
+RS;43;21907;Três Passos;25467
+RS;43;21956;Trindade do Sul;7065
+RS;43;22004;Triunfo;32859
+RS;43;22103;Tucunduva;5512
+RS;43;22152;Tunas;3685
+RS;43;22186;Tupanci do Sul;1371
+RS;43;22202;Tupanciretã;19997
+RS;43;22251;Tupandi;4981
+RS;43;22301;Tuparendi;8342
+RS;43;22327;Turuçu;3410
+RS;43;22343;Ubiretama;1994
+RS;43;22350;União da Serra;1171
+RS;43;22376;Unistalda;2180
+RS;43;22400;Uruguaiana;115100
+RS;43;22509;Vacaria;64033
+RS;43;22525;Vale Verde;3137
+RS;43;22533;Vale do Sol;9907
+RS;43;22541;Vale Real;6152
+RS;43;22558;Vanini;2004
+RS;43;22608;Venâncio Aires;68420
+RS;43;22707;Vera Cruz;26702
+RS;43;22806;Veranópolis;23878
+RS;43;22855;Vespasiano Corrêa;1821
+RS;43;22905;Viadutos;4767
+RS;43;23002;Viamão;223679
+RS;43;23101;Vicente Dutra;4660
+RS;43;23200;Victor Graeff;2685
+RS;43;23309;Vila Flores;3608
+RS;43;23358;Vila Lângaro;2118
+RS;43;23408;Vila Maria;4425
+RS;43;23457;Vila Nova do Sul;3629
+RS;43;23507;Vista Alegre;2655
+RS;43;23606;Vista Alegre do Prata;1608
+RS;43;23705;Vista Gaúcha;2785
+RS;43;23754;Vitória das Missões;3266
+RS;43;23770;Westfália;3096
+RS;43;23804;Xangri-lá;16178
